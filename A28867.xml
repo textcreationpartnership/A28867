@@ -1,0 +1,1800 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The principles of religion by Edward Boughen.</title>
+            <author>Boughen, Edward, 1587?-1660?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 117 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28867</idno>
+            <idno type="STC">Wing B3816</idno>
+            <idno type="STC">ESTC R24142</idno>
+            <idno type="EEBO-CITATION">07953771</idno>
+            <idno type="OCLC">ocm 07953771</idno>
+            <idno type="VID">40718</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28867)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40718)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1197:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The principles of religion by Edward Boughen.</title>
+                  <author>Boughen, Edward, 1587?-1660?</author>
+               </titleStmt>
+               <extent>85 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40718:1" rendition="simple:additions"/>
+            <p>THE PRINCIPLES OF RELIGION.</p>
+            <q>
+               <p>Come ye Children, and hearken unto me: I will teach you the feare of the Lord. <bibl>PSAL. 34.11.</bibl>
+               </p>
+            </q>
+            <q>
+               <p>I ſeek not mine own profit, but the profit of many, that they may be ſaved. <bibl>1. COR. 10.33.</bibl>
+               </p>
+            </q>
+            <p>By EDWARD BOVGHEN.</p>
+            <p>OXFORD, Printed by <hi>Leonard Lichfield</hi> Printer to the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="catechism">
+            <pb facs="tcp:40718:2"/>
+            <pb n="1" facs="tcp:40718:2"/>
+            <head>THE PRINCIPLES of Religion.</head>
+            <div n="1-34" type="pages">
+               <p>Q. <hi>
+                     <seg rend="decorInit">W</seg>Hat is your name?</hi>
+               </p>
+               <p>
+                  <hi>Anſ.</hi> N. or M.</p>
+               <p>Q. <hi>Is this your Chriſti<g ref="char:EOLhyphen"/>an name, or Sir<g ref="char:EOLhyphen"/>name?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> My Chriſtian name.</p>
+               <p>Q. <hi>Why doe you anſwer by that name, and not by your other?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it is my better name; it puts me in mind of my better being, of my ſecond Birth, when this name was given me.</p>
+               <p>Q. <hi>When was it given thee?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> At my <hi>Baptiſme.</hi>
+               </p>
+               <p>Q. <hi>Why then?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe at that time I became a
+<pb n="2" facs="tcp:40718:3"/>new creature, being
+<note n="a" place="margin">
+                     <hi>S Io.</hi> 3.5. In Bap<g ref="char:EOLhyphen"/>tiſme we receive <hi>new names<g ref="char:punc">▪</g>
+                     </hi> in token that by Bap<g ref="char:EOLhyphen"/>tiſme we are made <hi>new Crea<g ref="char:EOLhyphen"/>tures. Hoo<g ref="char:EOLhyphen"/>ker Eccleſ. Pol. l.</hi> 5. §. 62.</note> 
+                  <hi>borne anew of water and of the Holy Ghoſt,</hi> that ſo I might be <hi>a member of Chriſt, a Child of God, and an Inheritor of the Kingdom of Heaven.</hi> This then is my name, which I receive from <hi>Chriſt</hi> in the Church, and ſerves at all times to put me in mind of God my Father, and the Church my Mother.</p>
+               <p>Q. <hi>What conceive you to be the rea<g ref="char:EOLhyphen"/>ſon, why the Church hath provided, that this name ſhould be given us rather at this time, then at any other?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Firſt, becauſe it is our new birth; and a new name well befitteth a new birth. 2. Becauſe <hi>Baptiſme</hi> was injoy<g ref="char:EOLhyphen"/>ned in ſtead of <hi>Circumciſion:</hi> and at <hi>Cir<g ref="char:EOLhyphen"/>cumciſion</hi> names were impoſed upon the ſeed of <hi>Abraham.</hi>
+               </p>
+               <p>Q. <hi>How doth that appeare?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the <hi>Baptiſt,</hi> and our Saviour.
+<note n="b" place="margin">S. Luc. 1.59, 63.</note> The <hi>Baptiſt</hi> at <hi>Circumciſion</hi> was call<g ref="char:EOLhyphen"/>ed <hi>John,</hi> and
+<note n="c" place="margin">S. Luc. 2.21.</note> our Saviour, <hi>Jeſus.</hi>
+               </p>
+               <p>Q. <hi>Who gave you this name?</hi>
+               </p>
+               <p>
+                  <hi>A. My God-Fathers and God-mo<g ref="char:EOLhyphen"/>thers.</hi>
+               </p>
+               <p>Q. <hi>Why they, rather then your own Pa<g ref="char:EOLhyphen"/>rents?</hi>
+               </p>
+               <pb n="3" facs="tcp:40718:3"/>
+               <p>
+                  <hi>A.</hi> Becauſe this name, like the new birth, is not fleſhly, but ſpirituall, there<g ref="char:EOLhyphen"/>fore I receive a name from God, and not from man. A new birth, new Pa<g ref="char:EOLhyphen"/>rents, and a new name, becauſe I am a<g ref="char:EOLhyphen"/>dopted into a new familie. Hence is it, that with us they are named <hi>God-Fa<g ref="char:EOLhyphen"/>thers,</hi> Fathers from God, or in Gods ſtead.</p>
+               <p>Q. <hi>Doe they give you a</hi> name <hi>only?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, they undertake to the Church in my behalfe, theſe <hi>three things. Firſt, that I ſhould forſake the Divell and all his workes, the Pomps and Vanities of this wicked World, and all the ſinfull Luſts of the fleſh. Secondly, that I ſhould believe all the Articles of the Chriſtian Faith. And Thirdly, that I ſhould keep Gods holy will and Commandements, and walke in the ſame all the daies of my life.</hi>
+               </p>
+               <p>Q. <hi>Why doe they promiſe this for you, and not you for your ſelfe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I make this promiſe by them. Firſt, becauſe at that time I am not able to make it by my ſelfe. 2<hi rend="sup">ly</hi>, Becauſe we are Baptized in our infancy, ſince Baptiſme is of ſuch neceſſity, partly by
+<pb n="4" facs="tcp:40718:4"/>reaſon of our naturall corruption, and partly by reaſon of our Saviours inſtiru<g ref="char:EOLhyphen"/>tion, that
+<note n="d" place="margin">
+                     <hi>S. Io.</hi> 3.3.5.</note> 
+                  <hi>unleſſe we be borne againe of Water and of the Holy Ghoſt, we cannot enter into the Kingdome of God.</hi> At that time therefore we undertake this by o<g ref="char:EOLhyphen"/>thers, but confeſſe now, that we are bound to performe them in our own Perſons.</p>
+               <p>Q. <hi>You are reſolved then, I hope,</hi> to believe, and to doe, as they have pro<g ref="char:EOLhyphen"/>miſed for you.</p>
+               <p>A. <hi>Yes verily, and by Gods help ſo I will. And I beſeech God to give me his grace, that I may continue</hi> conſtant in this reſolution and practice <hi>unto my lives end.</hi>
+               </p>
+               <p>Q. <hi>You have promiſed to</hi> believe all the Articles of the Chriſtian Faith: <hi>which are they?</hi>
+               </p>
+               <p>A. <hi>I believe in God the Father Al<g ref="char:EOLhyphen"/>mighty, maker of Heaven and Earth, &amp;c.</hi>
+               </p>
+               <p>Q. <hi>Are all Chriſtians bound to believe all this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes; for
+<note n="e" place="margin">
+                     <hi>Athan.</hi> Creed.</note> 
+                  <hi>this is the Catholike Faith, which except a man beleeve faith<g ref="char:EOLhyphen"/>fully, he cannot be ſaved.</hi>
+               </p>
+               <pb n="5" facs="tcp:40718:4"/>
+               <p>Q. <hi>Why call you it</hi> Catholike?</p>
+               <p>
+                  <hi>A.</hi> Catholike ſignifies <hi>univerſall;</hi> this is therefore called the <hi>Catholike Faith,</hi> becauſe all Chriſtians <hi>univerſally</hi> are bound to believe it. Beſides, it containes all things, which are of neceſſity to be beleeved unto ſalvation.</p>
+               <p>Q. <hi>How ancient is this</hi> Creed?</p>
+               <p>
+                  <hi>A.</hi> As ancient as the <hi>Apoſtles</hi> times; ancienter then ſome, if not then all the writings of the <hi>Apoſtles.</hi> For
+<note n="f" place="margin">
+                     <hi>Calvin. in</hi> Heb. 6.1.</note> 
+                  <hi>Calvin</hi> acknowledgeth, that the <hi>Apoſtles Creed</hi> was in uſe, before the <hi>Epiſtle to the He<g ref="char:EOLhyphen"/>brewes</hi> was written.</p>
+               <p>Q. <hi>Was it compoſed by the Apoſtles?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It ſeemes ſo; for we learne from Antiquity, that
+<note n="g" place="margin">S. Mat. 28.19.</note> the Apoſtles being by our Saviours command to <hi>goe and teach all Nations,</hi> and yet
+<note n="h" place="margin">Act. 1.4.8.</note> 
+                  <hi>not to depart from Hieruſalem,</hi> till according to his pro<g ref="char:EOLhyphen"/>miſe they were furniſhed with abilities for ſo great an employment:
+<note n="i" place="margin">
+                     <hi>Diſceſſu<g ref="char:EOLhyphen"/>ri ab invi<g ref="char:EOLhyphen"/>cem, norma<g ref="char:cmbAbbrStroke">̄</g> prius futu<g ref="char:EOLhyphen"/>rae praedica<g ref="char:EOLhyphen"/>tionis inſti<g ref="char:EOLhyphen"/>tuunt.</hi> Ru<g ref="char:EOLhyphen"/>fin. <hi>in</hi> Sym. n. 10.</note> before they parted to undergoe this great task, they agreed upon this <hi>Creed,</hi> which was to be
+<note n="k" place="margin">
+                     <hi>Hanc <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re<g ref="char:EOLhyphen"/>dentibus danda<g ref="char:cmbAbbrStroke">̄</g> eſſe regulam ſtatuunt.</hi> Ib.</note> 
+                  <hi>the rule of Faith,</hi> according to which they were to frame their diſ<g ref="char:EOLhyphen"/>courſes; and contrary to which no man
+<pb n="6" facs="tcp:40718:5"/>might teach, or beleeve.</p>
+               <p>Q. <hi>What benefit received Converts by embracing this Creed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By this they were fitted for Bap<g ref="char:EOLhyphen"/>tiſme:
+<note n="l" place="margin">
+                     <hi>Symbolu<g ref="char:cmbAbbrStroke">̄</g> Apoſtoli<g ref="char:EOLhyphen"/>cum, primus quaſi in<g ref="char:EOLhyphen"/>greſſus e<g ref="char:EOLhyphen"/>rat in Ec<g ref="char:EOLhyphen"/>cleſiam ijs, qui Chriſto nomen da<g ref="char:EOLhyphen"/>bant.</hi> Cal<g ref="char:EOLhyphen"/>vin. <hi>in</hi> Heb. 6.1.</note> by this they found ingreſſe into the Church: and
+<note n="m" place="margin">
+                     <hi>Iren. l.</hi> 3. <hi>c.</hi> 4.</note> by confeſſion and be<g ref="char:EOLhyphen"/>leefe of this Creed many were ſaved, before any part of the New Teſtament was brought unto them.</p>
+               <p>Q. <hi>Was this written, thinke you, before the New Teſtament?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Not written, but delivered;
+<note n="n" place="margin">
+                     <hi>Ruſſin in Symb. n</hi> 12. <hi>Chryſol. Ser.</hi> 57.60, 61 <hi>Hieron. Epiſt.</hi> 69. <hi>Aug. de Symb. l.</hi> 1. <hi>c.</hi> 1.</note> not ſuffer'd to be written for three hundred yeares at leaſt, after our Saviours aſcen<g ref="char:EOLhyphen"/>ſion: hence is it uſually called by the Antients,
+<note n="o" place="margin">
+                     <hi>Iren. l.</hi> 3. <hi>c.</hi> 4.</note> 
+                  <hi>the tradition of the Church,</hi> and by S<hi rend="sup">t</hi> 
+                  <hi>Paul,</hi>
+                  <note n="p" place="margin">Rom. 6.17.</note> 
+                  <hi>that</hi> FORME <hi>of doctrine which was</hi> DELIVERED <hi>you.</hi>
+               </p>
+               <p>Q. <hi>How are we to underſtand this</hi> Creed?</p>
+               <p>
+                  <hi>A.</hi> In the ſame ſence it is delivered; that is, in the Literall, Grammaticall, and uſuall ſenſe of the words, wherein I am taught: He that hath commanded me to beleeve, hath alſo taught me, what to beleeve.</p>
+               <p>Q. <hi>May we not take ſome part of this</hi>
+                  <pb n="7" facs="tcp:40718:5"/>Creed <hi>in a figurative ſenſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No. As I am taught, ſo I beleeve. As it was provided for the good of all, ſo is it made for the underſtanding of all. Had it been compoſed of darke and figurative words or phraſes, the learned only could have underſtood it: indeed it would rather have raiſed controver<g ref="char:EOLhyphen"/>ſies, then ſetled one unalterable faith.</p>
+               <p>Q. <hi>You ſay right.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Beſides, the Apoſtles had fayled of one maine intent, for which it was provided.
+<note n="q" place="margin">
+                     <hi>Iſtud u<g ref="char:EOLhyphen"/>nanimitatis &amp; fidei ſuae indici<g ref="char:EOLhyphen"/>um Apoſto<g ref="char:EOLhyphen"/>li poſuere.</hi> Ruffin. <hi>in Symb n.</hi> 13.</note> Framed it was for this pur<g ref="char:EOLhyphen"/>poſe, that it might be the <hi>token of their unanimity and faith:</hi> and that
+<note n="r" place="margin">
+                     <hi>Per quod agnoſcere<g ref="char:EOLhyphen"/>tur is, qui Chriſtum verè ſecu<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>dum Apo<g ref="char:EOLhyphen"/>ſtolicas re<g ref="char:EOLhyphen"/>gulas prae<g ref="char:EOLhyphen"/>dicaret.</hi> Ib. n. 11.</note> thereby it might evidently be ſeen, who prea<g ref="char:EOLhyphen"/>ched <hi>Chriſt truly according to the A<g ref="char:EOLhyphen"/>postles rules,</hi> and who not. It had been alſo contrary to the Apoſtles open pro<g ref="char:EOLhyphen"/>feſſion, who affirme, that
+<note n="ſ" place="margin">1. Cor. 2.1.</note> they <hi>came not with excellency of ſpeech, or of wiſedome,</hi> but that
+<note n="t" place="margin">Rom. 6.19.</note> they <hi>spake after the manner</hi> and cuſtome of <hi>men.</hi>
+               </p>
+               <p>Q. <hi>You take then the words of this</hi> Creed <hi>in the literall and plaine ſenſe.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I doe ſo; for
+<note n="u" place="margin">1. Cor. 3.1.</note> we are not taught at firſt <hi>as spirituall, but as carnall men,
+<pb n="8" facs="tcp:40718:6"/>as babes in Chriſt,</hi> becauſe
+<note n="*" place="margin">Ib. v. 2.</note> 
+                  <hi>we are not able to beare</hi> ſtrong <hi>meat,</hi> we <hi>muſt be fed with milke.</hi> And I have learned, that
+<note n="x" place="margin">
+                     <hi>Hooker. Eccleſ. Pol. l.</hi> 5 §. 59.</note> 
+                  <hi>in Scripture, where a literall conſtructi<g ref="char:EOLhyphen"/>on will ſtand, the furtheſt from the letter is commonly the worſt.</hi>
+               </p>
+               <p>Q <hi>That then we may fully diſcerne, whether it may be taken in the uſuall and ordinary ſenſe, let us take it aſunder, and weigh the particular words in the ſeve<g ref="char:EOLhyphen"/>rall Articles. How many Articles are there in this</hi> Creed?</p>
+               <p>
+                  <hi>A.</hi> Twelve.</p>
+               <p>Q. <hi>Which is the firſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I beleeve in God the Father Al<g ref="char:EOLhyphen"/>mighty maker of heaven and earth.</p>
+               <p>Q. <hi>How underſtand you theſe words?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Accordingly as I utter them; namely, that <hi>God the Father</hi> is the God of all might and power: and that
+<note n="y" place="margin">Act. 14 15.</note> 
+                  <hi>he made,</hi> or created <hi>Heaven, and Earth, and the Sea, and all things that are therein;</hi> all theſe of nothing.</p>
+               <p>Q. <hi>Which is the ſecond Article?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> And in Ieſus Chriſt his only Son our Lord.</p>
+               <p>Q. <hi>Is he alſo</hi> God?</p>
+               <pb n="9" facs="tcp:40718:6"/>
+               <p>
+                  <hi>A.</hi> The <hi>Sonne</hi> of the ſame ſubſtance and nature with <hi>the Father.</hi>
+                  <note n="z" place="margin">
+                     <hi>Nicene</hi> Creed.</note> 
+                  <hi>God of God; very God of very God;</hi>
+                  <note n="a" place="margin">
+                     <hi>Athan.</hi> Creed.</note> 
+                  <hi>Coeternall to the Father, and coequall:</hi> and <hi>our Lord</hi> with the Father.</p>
+               <p>Q. <hi>Is he alſo</hi> Almighty?</p>
+               <p>
+                  <hi>A.</hi> Without queſtion he is:
+<note n="b" place="margin">Col. 1.16.</note> for <hi>by him were all things created, that are in Heaven, and that are in Earth, viſible and inviſible;</hi> and
+<note n="c" place="margin">Ib. v. 17</note> 
+                  <hi>by him all things conſist.</hi>
+               </p>
+               <p>Q. <hi>The third Article.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Who was conceived by the holy Ghoſt, borne of the Virgin Mary.</p>
+               <p>Q. <hi>What is the meaning of this Ar<g ref="char:EOLhyphen"/>ticle?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That
+<note n="d" place="margin">Gal. 4 4.</note> in the fulneſſe of time
+<note n="e" place="margin">
+                     <hi>Nicene</hi> Creed.</note> 
+                  <hi>he was incarnate,</hi> or made fleſh <hi>of the Virgin Mary, by the holy Ghoſt.</hi>
+               </p>
+               <p>Q. <hi>Was he, who is above, and</hi>
+                  <note n="f" place="margin">Col. 1.17.</note> before all things, <hi>made fleſh?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He, that from all eternity is God with the <hi>Father,</hi> in time was made man;
+<note n="g" place="margin">
+                     <hi>Athan.</hi> Creed.</note> 
+                  <hi>God of the ſubſtance of the Fa<g ref="char:EOLhyphen"/>ther, begotten before the worlds; and man of the ſubſtance of his mother, borne in the world. Perfect God, and perfect man of
+<pb n="10" facs="tcp:40718:7"/>a reaſonable ſoule, and humane fleſh ſub<g ref="char:EOLhyphen"/>ſiſting.</hi>
+               </p>
+               <p>Q. <hi>Is not the holy Ghoſt his Father alſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No: for in his Incarnation he took nothing of the Holy Ghoſt. Only the Holy Ghoſt took the <hi>Seed</hi> of the Virgin <hi>Mary,</hi> and made it fleſh, with<g ref="char:EOLhyphen"/>out the help of man, or ſenſe of the wo<g ref="char:EOLhyphen"/>man. Which fleſh, united to the ſoule, the ſecond perſon in the Trinity aſſu<g ref="char:EOLhyphen"/>med into his owne perſon, and became
+<note n="h" place="margin">Ib.</note> 
+                  <hi>one Chriſt. One</hi> (I ſay) <hi>not by conver<g ref="char:EOLhyphen"/>ſion of the Godhead into fleſh, but by ta<g ref="char:EOLhyphen"/>king of the manhood into God.</hi>
+               </p>
+               <p>Q. <hi>Is he not one, as he is the Sonne of God, and another, as he is the Son of man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; though he conſiſt of two na<g ref="char:EOLhyphen"/>tures, he is but one perſon.
+<note n="i" place="margin">Ib.</note> 
+                  <hi>For, as the reaſonable ſoule and fleſh is one man, ſo God and man is one Chriſt.</hi>
+               </p>
+               <p>Q. <hi>May then the Virgin</hi> Mary <hi>be ſaid to be the</hi> Mother of God?</p>
+               <p>
+                  <hi>A.</hi> She may; becauſe ſhe is mother of that man, who is God;
+<note n="k" place="margin">Ib.</note> 
+                  <hi>not by confu<g ref="char:EOLhyphen"/>ſion of ſubſtance, but by unity of perſon.</hi> As <hi>Abraham</hi> is the Father of <hi>Iſaac,</hi>
+                  <pb n="11" facs="tcp:40718:7"/>though not the Father of his ſoule; ſo is ſhe the mother of the ſecond perſon in the Trinity, though not the mother of his Godhead.</p>
+               <p>Q. <hi>Which is the fourth Article?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He ſuffered under <hi>Pontius Pilate, was crucified, dead, and buried;</hi> he, that very perſon, that is the ſonne of God, and was borne of the Virgin <hi>Mary.</hi>
+               </p>
+               <p>Q. <hi>Why did he ſuffer all this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="l" place="margin">
+                     <hi>Nicene</hi> Creed.</note> For <hi>us men and for our ſalvation;</hi> for
+<note n="m" place="margin">1. S. Pet. 2.24.</note> 
+                  <hi>he bare our ſinnes in his owne body, that we being dead unto ſinne, ſhould live unto righteouſneſſe, by whoſe ſtripes we are healed.</hi> He ſuffered here, that we might not ſuffer hereafter; he endured the curſed death, that we might eſcape the curſe of the Law: he dyed for a time, that we might live for ever; he was buried, that he might ſanctifie the grave, and make it a place of reſt for us.</p>
+               <p>Q. <hi>Did the ſecond perſon in the Tri<g ref="char:EOLhyphen"/>nity ſuffer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> His perſon ſuffer'd, though not each nature in his perſon. As man, but not as God; for God cannot ſuffer.</p>
+               <p>Q. <hi>Who did he ſuffer for?</hi>
+               </p>
+               <pb n="12" facs="tcp:40718:8"/>
+               <p>
+                  <hi>A.</hi> For all the ſonnes of <hi>Adam.</hi> He took not therefore upon him the perſon, but the nature of man, that ſo he might perfect this great worke of Redempti<g ref="char:EOLhyphen"/>on, for all that are of the ſame nature with him.</p>
+               <p>Q. <hi>Are you ſure of this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The Scriptures have taught me ſo.
+<note n="n" place="margin">S. John 8.16.</note> 
+                  <hi>So God loved the World</hi> (ſaith our bleſſed Saviour) <hi>that he gave his only begotten Sonne, to the end, that</hi> ALL THAT BELEEVE IN HIM <hi>ſhould not periſh, but have life everlaſting.</hi> And S<hi rend="sup">t</hi> 
+                  <hi>John;</hi>
+                  <note n="o" place="margin">1. S. Joh. 2.1, 2.</note> 
+                  <hi>If</hi> ANY MAN <hi>ſinne,</hi> WE <hi>have an Advocate with the Father, Jeſus Chriſt the righteous, and he is the propiti<g ref="char:EOLhyphen"/>ation for our ſinnes: and not for ours only, but alſo for the ſinnes of the</hi> WHOLE WORLD. And Saint <hi>Paul</hi> aſſures us, that
+<note n="p" place="margin">Heb. 2.9.</note> 
+                  <hi>Chriſt taſted death for</hi> EVERY MAN. What would we more?</p>
+               <p>Q. <hi>This is comfortable doctrine.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is ſo; and to this agrees the doctrine of my mother the <hi>Church of England;</hi> who hath taught me
+<note n="q" place="margin">Artic. 17.</note> 
+                  <hi>to re<g ref="char:EOLhyphen"/>ceive Gods promiſes in ſuch wiſe, as they are</hi> GENERALLY <hi>ſet forth to us in
+<pb n="13" facs="tcp:40718:8"/>holy Scripture:</hi> aſſuring me, that our Sa<g ref="char:EOLhyphen"/>viour
+<note n="r" place="margin">Prayer before the Commu<g ref="char:EOLhyphen"/>nion.</note> 
+                  <hi>upon the Croſſe made a full,</hi> PER<g ref="char:EOLhyphen"/>FECT, <hi>and ſufficient ſacriſice, obla<g ref="char:EOLhyphen"/>tion, and</hi> SATISFACTION FOR THE SINNES OF THE WHOLE WORLD; yea,
+<note n="ſ" place="margin">Artic. 31.</note> FOR ALL THE SINNES OF THE WHOLE WORLD, <hi>both originall and actuall.</hi>
+               </p>
+               <p>Q. <hi>How comes it then to paſſe, that ſo many are damned?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Either for want of Faith, or for want of obedience and repentance: for
+<note n="t" place="margin">S. John. 1.12.</note> 
+                  <hi>to as many as received him, to them gave he power to become the Sonnes of God.</hi>
+               </p>
+               <p>Q. <hi>Which is the fifth Article?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He deſcended into Hell, the third day he roſe againe from the dead.</p>
+               <p>Q. <hi>How underſtand you this Article?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Literally, as I doe the reſt.</p>
+               <p>Q. <hi>Did</hi> Chriſt <hi>goe downe into hell?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He did ſo; otherwiſe my <hi>Creed</hi> hath taught me ſomething, that is not to be beleeved.</p>
+               <p>Q. <hi>Some are of opinion, that it is a Metaphoricall ſpeech, and ſignifies, that he was</hi> truly dead.</p>
+               <p>
+                  <hi>A.</hi> I know, there are ſome of that
+<pb n="14" facs="tcp:40718:9"/>opinion: but I ſee no reaſon, why I ſhould aſſent thereto.</p>
+               <p>Q. <hi>Why ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> For theſe five reaſons. Firſt, be<g ref="char:EOLhyphen"/>cauſe
+<note n="u" place="margin">S. Luc. 16 23. <hi>Ne ipſos qui<g ref="char:EOLhyphen"/>dem inferos uſpiam Scriptura<g ref="char:EOLhyphen"/>rum locis in bono appel<g ref="char:EOLhyphen"/>latos potui reperire. Aug. Ep.</hi> 99. <hi>de Gen. ad lit. l.</hi> 12. <hi>c.</hi> 33.</note> 
+                  <hi>Hell</hi> does not ſignifie the place of the dead, but the place of the dam<g ref="char:EOLhyphen"/>ned, as in the caſe of <hi>Dives.</hi>
+               </p>
+               <p>Secondly, our Saviours <hi>death</hi> was ſuf<g ref="char:EOLhyphen"/>ficiently expreſſed before, in that it is ſaid, <hi>he was dead:</hi> and not only ſo, but <hi>he was buried.</hi> And we <hi>bury</hi> not the li<g ref="char:EOLhyphen"/>ving, but the <hi>dead.</hi>
+               </p>
+               <p>Thirdly,
+<note n="*" place="margin">
+                     <hi>Calvin. Inſtit. l.</hi> 2. <hi>c.</hi> 16. §. 8.</note> 
+                  <hi>Calvin</hi> ſaith, it is a <hi>batta<g ref="char:EOLhyphen"/>logy,</hi> or needleſſe repetition; and not probable, that ſuch vanity ſhould be ad<g ref="char:EOLhyphen"/>mitted into ſo compendious a briefe of our faith.</p>
+               <p>Fourthly, it is contrary to the courſe of order, after <hi>buriall</hi> to returne to his <hi>death;</hi> as if he had ſuffer'd death a ſe<g ref="char:EOLhyphen"/>cond time. But it is methodicall and orderly', after they had done with his <hi>body,</hi> to acquaint us, what became of his <hi>ſoule,</hi> when he was dead, and to tell us, that it <hi>deſcended,</hi> or <hi>went downe into hell.</hi>
+               </p>
+               <p>Fifthly, by the primitive Church, his <hi>deſcent into hell,</hi> is not accounted any
+<pb n="15" facs="tcp:40718:9"/>part of his <hi>humiliation,</hi> but the firſt de<g ref="char:EOLhyphen"/>gree of his <hi>exaltation.</hi>
+               </p>
+               <p>Q. <hi>Where learne you this doctrine?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> In D<hi rend="sup">r</hi> 
+                  <hi>Nowels Catechiſme;</hi> where I find, that
+<note n="x" place="margin">D. <hi>Now<g ref="char:EOLhyphen"/>els Cate.</hi> upon this Article.</note> by <hi>his deſcending into hell</hi> is meant, <hi>that as Christ in his body deſ<g ref="char:EOLhyphen"/>cended into the bowells of the earth, ſo</hi> IN HIS SOVLE SEVERED FROM THE BODY, HE DESCENDED INTO HELL.</p>
+               <p>Q. <hi>Js not this</hi> D. Nowels <hi>private opi<g ref="char:EOLhyphen"/>nion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, it is the reſolution of thoſe bleſſed Reformers under King <hi>Edward</hi> VI. For they tell us, that
+<note n="y" place="margin">Art. 3.</note> in the three daies of Chriſts death, <hi>His Body was in the Grave,</hi> HIS SOVL IN HELL, <hi>and his Deity every where.</hi>
+               </p>
+               <p>Q. <hi>Was not this caſt off as an erroneous opinion in Q.</hi> Elizabeth's <hi>daies?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No certainely, for their Scholers in the Articles of 1562. ſay thus,
+<note n="z" place="margin">Art. 3.</note> 
+                  <hi>As Chriſt died for us, and was buried,</hi> SO ALSO IS IT TO BE BELEIVED, THAT HE DESCENDED INTO HELL. But
+<note n="a" place="margin">Art. 2.</note> 
+                  <hi>we beleeve, that Chriſt truly died, and was buried:</hi> it is therefore
+<pb n="16" facs="tcp:40718:10"/>to be beleived, that <hi>he truly deſcended into Hell.</hi> But to ſay, as we beleive, that <hi>Chriſt truly died,</hi> ſo doe we beleive, that he was <hi>truly dead,</hi> were a moſt abſurd inference, and would be hiſſed out of the Schooles.</p>
+               <p>Q. <hi>This manifeſts their reſolution; but is this agreeable to the Ancient Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> There is not one Councell, or probable Father in the firſt 500 yeares, but is of this opinion. And S. <hi>Auſtine</hi> is ſo reſolute for this Article, that he ſaith,
+<note n="b" place="margin">
+                     <hi>Quis, niſi infidelis, negaverit fuiſſe apud inferos Chriſtum. Aug. ep.</hi> 99.</note> 
+                  <hi>Whoſoever denies Chriſts deſcent into Hell, is no Chriſtian.</hi> And <hi>Athanaſius</hi> in his <hi>Creed,</hi> puts it in among thoſe Ar<g ref="char:EOLhyphen"/>ticles, whereof he ſaith,
+<note n="c" place="margin">Athan. Creed.</note> 
+                  <hi>which faith ex<g ref="char:EOLhyphen"/>cept every one doe keep</hi> WHOLE AND VNDEFILED, <hi>without doubt he ſhall periſh everlaſtingly.</hi>
+               </p>
+               <p>Q. <hi>Where is this</hi> Hell, <hi>that he went into?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="d" place="margin">Eph. 4 9.</note> 
+                  <hi>In the lower parts of the earth,</hi> then which nothing is <hi>lower.</hi> So S. <hi>Paul.</hi> And
+<note n="e" place="margin">
+                     <hi>Chriſtum in</hi> corde terrae <hi>tri<g ref="char:EOLhyphen"/>duum mor<g ref="char:EOLhyphen"/>tis logimus expunctum, id eſt, in re<g ref="char:EOLhyphen"/>ceſſu</hi> intimo <hi>&amp; interno, &amp; in ipſa terrâ oper<g ref="char:EOLhyphen"/>to, &amp; infra ipſam cava<g ref="char:EOLhyphen"/>to, &amp; infe<g ref="char:EOLhyphen"/>rioribus ad<g ref="char:EOLhyphen"/>huc abyſſis ſuperſtru<g ref="char:EOLhyphen"/>cto.</hi> Tertul. <hi>de animâ. c.</hi> 55. <hi>Chriſtus ad ſolvendos inferni dolores deſcendit. Aug. ep.</hi> 99.</note> 
+                  <hi>Tertullian</hi> makes his expreſſion ſo full for the bowels of the earth, that
+<pb n="17" facs="tcp:40718:10"/>no man can doubt of his opinion.</p>
+               <p>Q. <hi>What went he thither for?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> To triumph over Hell, and to ful<g ref="char:EOLhyphen"/>fill that of the Prophet,
+<note n="f" place="margin">Hoſ. 13.14. 1. Cor. 15.55.</note> 
+                  <hi>O death where is thy ſting? O Hell, where is thy Victo<g ref="char:EOLhyphen"/>rie?</hi> To this opinion aſſents D. <hi>Nowell</hi> in his Catechiſme.</p>
+               <p>Q. <hi>Are all of this opinion?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No truly, ſome conceive, that he ſufferd the torments of hell in his Soul: which cannot be. For
+<note n="*" place="margin">
+                     <hi>
+                        <g ref="char:V">Ʋ</g>el pec<g ref="char:EOLhyphen"/>cato, vel</hi> damnatio<g ref="char:EOLhyphen"/>ne, <hi>mors</hi> a<g ref="char:EOLhyphen"/>nimae <hi>intel<g ref="char:EOLhyphen"/>ligi poteſt. Aug ep.</hi> 99.</note> firſt, the paines of Hell are the death of the ſoul: and in that ſence it is ſaid,
+<note n="g" place="margin">Ezek. 18.4.</note> 
+                  <hi>that ſoule, which ſinnes, ſhall ſurely dye.</hi> But <hi>Chriſts</hi> ſoule never ſinned: and for
+<note n="h" place="margin">1. S. Pet. 2.24.</note> 
+                  <hi>our ſinnes he bare</hi> them <hi>in his Body.</hi>
+               </p>
+               <p n="1">2<hi rend="sup">ly</hi> The Scriptures teach us, that
+<note n="i" place="margin">1. S. Pet. 4.1.</note> 
+                  <hi>Christ ſuffered for us in the fleſh,</hi> and that
+<note n="k" place="margin">1. S. Pet. 3.18.</note> he was <hi>put to death in the fleſh;</hi> not in the ſoule, no ſuch thing in Scripture.</p>
+               <p n="3">3<hi rend="sup">ly</hi> That ſoule, which is united to the Deitie, is not capable of Hell tor<g ref="char:EOLhyphen"/>ments. That were to make the ſoule of God ſubject to the Divell, which can<g ref="char:EOLhyphen"/>not be imagined without blaſphemy.</p>
+               <p n="4">4<hi rend="sup">ly</hi>
+                  <note n="l" place="margin">Act. 2. 30, 31.</note> 
+                  <hi>David being a Prophet ſaid of the Reſurrection of Chriſt, that</hi>
+                  <note n="m" place="margin">Pſ. 16.11. Act. 13.37.</note> 
+                  <hi>his Soule
+<pb n="18" facs="tcp:40718:11"/>was not left in Hell, neither did his fleſh ſee corruption.</hi> If then this was ſpoken of his <hi>Reſurrection,</hi> it was not ſpoken either of his Death or Paſſion. As then his body was in the place of <hi>corrupti<g ref="char:EOLhyphen"/>on,</hi> but <hi>ſaw,</hi> but ſuffered <hi>no corruption,</hi> ſo his ſoule was in <hi>Hell,</hi> the place of torments, but ſuffered no torment.</p>
+               <p>Q. <hi>How underſtand you theſe two ſay<g ref="char:EOLhyphen"/>ings of his,</hi>
+                  <note n="n" place="margin">S. Mat. 26.38.</note> My Soule is heavy even unto death: <hi>and</hi>
+                  <note n="o" place="margin">S. Mat. 27.46.</note> My God, my God, why haſt thou forſaken me?</p>
+               <p>
+                  <hi>A.</hi> The former he ſpake as he was man, foreſeeing his death at hand, ſhewing that his Soule was exceeding ſorrowfull, as ours are, to be parted from the body; The other he ſpake, becauſe the Deity for a time had with<g ref="char:EOLhyphen"/>drawen her comfortable viſion from the ſoule, that ſo it might endure, what ſorrow it was any way capable of. For if there were an <hi>exceeding ſorrow</hi> in the ſoule to be parted a while from the bo<g ref="char:EOLhyphen"/>dy; what exceſſe of ſorrow was in it, think you, when the ſight of God was ſubtracted from it? ſince the viſion of God is the higheſt comfort of the ſoule:
+<pb n="19" facs="tcp:40718:11"/>for
+<note n="p" place="margin">Pſ. 16.12.</note> 
+                  <hi>in his preſence is the fulneſſe of joy.</hi>
+               </p>
+               <p>Q. <hi>What think you of his</hi> Reſurrecti<g ref="char:EOLhyphen"/>on?</p>
+               <p>
+                  <hi>A.</hi> After <hi>Chriſts</hi> ſoule had for three daies triumphed over Hell, and all the powers thereof, it was reunited to the body, which aroſe from the grave with<g ref="char:EOLhyphen"/>out corruption: and both were
+<note n="q" place="margin">Act. 2.28.</note> 
+                  <hi>filled with the joy of his countenance.</hi> And to aſſure us of this his <hi>Reſurrection,</hi>
+                  <note n="r" place="margin">Act. 1.3.</note> in his fleſh, he was converſant with his Apo<g ref="char:EOLhyphen"/>ſtles and Diſciples forty daies.</p>
+               <p>Q. <hi>Which is the ſixth Article?</hi>
+               </p>
+               <p>
+                  <hi>A. He aſcended into Heaven, and ſit<g ref="char:EOLhyphen"/>teth on the right hand of God the Father Almighty.</hi>
+               </p>
+               <p>Q. <hi>What doeſt thou believe in this Ar<g ref="char:EOLhyphen"/>ticle?</hi>
+               </p>
+               <p>A. That the body and ſoule of <hi>Chriſt aſcended</hi> together into Heaven, the higheſt place of bliſſe, where they ne<g ref="char:EOLhyphen"/>ver were before: and
+<note n="ſ" place="margin">Te De<g ref="char:EOLhyphen"/>um.</note> at that time <hi>he opened the Kingdome of Heaven to all believers.</hi>
+               </p>
+               <p>Q. <hi>Doeſt thou understand theſe words in the litterall ſenſe?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I doe ſo.</p>
+               <pb n="20" facs="tcp:40718:12"/>
+               <p>Q. <hi>Can we ſay according to the Let<g ref="char:EOLhyphen"/>ter, that God hath a</hi> right hand?</p>
+               <p>
+                  <hi>A.</hi> No, we cannot. But both Scri<g ref="char:EOLhyphen"/>pture and <hi>Creed,</hi> in this phraſe or man<g ref="char:EOLhyphen"/>ner of ſpeech, ſtoop to the capacity of man, and expreſſe unto us hereby that height of glory, which is otherwiſe un<g ref="char:EOLhyphen"/>expreſſible to our underſtanding. For it is that glory, which no other eye hath ſeene, nor care hath heard, neither hath it enter'd into the heart of man to conceive. And how can the tongue ut<g ref="char:EOLhyphen"/>ter, what the heart hath not conceived? what is unconceivable is unutterable.</p>
+               <p>Q. <hi>Thou believeſt then, that he is aſ<g ref="char:EOLhyphen"/>cended into the higheſt place of glory?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I doe ſo; and that not only in place but in power: for
+<note n="t" place="margin">S. Mat. 28.18.</note> 
+                  <hi>to him is all power given,</hi> both <hi>in Heaven and in Earth.</hi> And yet in this height of glory he is in himſelfe ſo humble, and to us ſo gracious, that
+<note n="u" place="margin">Ro. 8.34.</note> 
+                  <hi>he makes continuall in<g ref="char:EOLhyphen"/>terceſſion for us.</hi>
+               </p>
+               <p>Q. <hi>What is the ſeaventh Article?</hi>
+               </p>
+               <p>A. <hi>From thence he ſhall come to judge the quick and the dead.</hi>
+               </p>
+               <p>Q. <hi>Is this certaine?</hi>
+               </p>
+               <pb n="21" facs="tcp:40718:12"/>
+               <p>
+                  <hi>A.</hi> As certain as he is God. And herein is a main comfort for us, that he who ſuffered for us, and died for us, and continually prayes for us, ſhall be <hi>our Iudge.</hi>
+               </p>
+               <p>Q. <hi>Shall he judge us as he is man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He ſhall; for
+<note n="*" place="margin">S. Io. 5.27.</note> 
+                  <hi>the Father hath given him Power and Authority to exe<g ref="char:EOLhyphen"/>cute judgement.</hi> BECAVSE HE IS THE SONNE OF MAN. And as man
+<note n="x" place="margin">Heb. 4.15.</note> 
+                  <hi>he is touched with the feeling of our infirmities,</hi>
+                  <note n="y" place="margin">Heb. 5.2.</note> that ſo <hi>he may have compaſſion upon us</hi> weake, wandring, ſilly men, and apt to be deceived. For
+<note n="z" place="margin">Heb. 4.15, 16.</note> 
+                  <hi>in all poynts he was tempted like as we are, yet without ſinne. Let us therefore come boldly unto the Throne of Grace, that we may obtain mercy, and find grace to help in time of need.</hi>
+               </p>
+               <p>Q. <hi>The eight Article.</hi>
+               </p>
+               <p>
+                  <hi>A. I believe in the Holy Ghoſt,</hi>
+                  <note n="a" place="margin">Nic. Creed.</note> 
+                  <hi>the Lord and giver of life, who proceedeth from the Father and the Sonne, who with the Father and the Sonne together is worſhipped and glorified; who ſpake by the Prophets.</hi> Theſe are three Perſons, and but one God. Thus
+<note n="b" place="margin">Athan. Creed.</note> 
+                  <hi>we worſhip
+<pb n="22" facs="tcp:40718:13"/>one God in Trinity, and Trinity in <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>ty; neither confounding the Perſons, nor dividing the Subſtance.</hi>
+               </p>
+               <p>Q. <hi>We may not indeed ſay, there be three Gods; but may we not ſay, there are three Lords?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We may not: for though
+<note n="c" place="margin">Ib.</note> 
+                  <hi>we be compelled by the Chriſtian verity to acknowledge every Perſon by himſelfe to be God and Lord: yet we are forbidden by the Catholike Religion, to ſay there be three Gods, or three Lords.</hi>
+               </p>
+               <p>Q. <hi>Why ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe, <hi>Lord</hi> in reſpect of the three perſons is a name of <hi>ſubſtance,</hi> not of relation, or property. And <hi>in God</hi> there is but <hi>one Subſtance,</hi> though three<g ref="char:EOLhyphen"/>relations.</p>
+               <p>Q. <hi>What meaneſt thou by relations?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God is called <hi>Father</hi> with relati<g ref="char:EOLhyphen"/>on to his <hi>Sonne;</hi> or becauſe he hath a <hi>Sonne.</hi> The ſecond perſon is called the <hi>Sonne,</hi> becauſe he hath a <hi>Father.</hi> And the <hi>Holy Ghoſt</hi> is called ſo, with relation to them both, becauſe he is the <hi>Spirit</hi> both of the Father and the Sonne: for he proceeds from both.</p>
+               <pb n="23" facs="tcp:40718:13"/>
+               <p>Q. <hi>We have now the three Perſons in the Trinity, doe we not aſcribe to every one of theſe a ſeverall worke concerning man?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We doe ſo; to the <hi>Father</hi> we a<g ref="char:EOLhyphen"/>ſcribe our <hi>Creation,</hi> to the <hi>Sonne</hi> our <hi>re<g ref="char:EOLhyphen"/>demption,</hi> and to the <hi>Holy Ghoſt</hi> our <hi>San<g ref="char:EOLhyphen"/>ctification.</hi> As the <hi>Father created all,</hi> ſo the <hi>Sonne redeemed all:</hi> and <hi>the Holy Ghoſt ſanctified me, and all the elect peo<g ref="char:EOLhyphen"/>ple of God.</hi>
+               </p>
+               <p>Q. <hi>Why to the</hi> Father <hi>is aſcribed the</hi> Creation?</p>
+               <p>
+                  <hi>A.</hi> Becauſe, though the other two perſons did joyntly and equally create with the Father, yet the originall of that power is in and from him. And yet
+<note n="d" place="margin">Athan. Creed.</note> 
+                  <hi>none is afore or after other, none is grea<g ref="char:EOLhyphen"/>ter or leſſe then another.</hi>
+               </p>
+               <p>Q. <hi>Why to the</hi> Sonne <hi>our</hi> Redempti<g ref="char:EOLhyphen"/>on?</p>
+               <p>
+                  <hi>A.</hi> Becauſe by his blood we are re<g ref="char:EOLhyphen"/>deemed from death and Hell.</p>
+               <p>Q. <hi>Why to the</hi> Holy Ghoſt <hi>our</hi> ſancti<g ref="char:EOLhyphen"/>fication?</p>
+               <p>
+                  <hi>A.</hi> Becauſe it is his ſpeciall worke to
+<note n="e" place="margin">1. S. Pet. 1.2.</note> 
+                  <hi>Sanctify us</hi> by his guifts and graces.
+<pb n="24" facs="tcp:40718:14"/>Hence is it, that we call him the <hi>holy Spirit,</hi> becauſe he is the <hi>Spirit</hi> that makes us <hi>holy,</hi>
+               </p>
+               <p>
+                  <hi>Q. We acknowledge, that the</hi> Sonne of God redeemed all mankind: <hi>why doe we not alſo confeſſe, that the</hi> Holy Ghoſt Sanctifies <hi>all mankind, but</hi> the elect peo<g ref="char:EOLhyphen"/>ple of God?</p>
+               <p>
+                  <hi>A.</hi> Becauſe <hi>Chriſt redeemes all,</hi> that they may be ſanctified; but <hi>the Holy Ghoſt Sanctifies</hi> only thoſe, that believe in <hi>Christ,</hi> or are baptiſed into <hi>Christ,</hi> that ſo they may be his elect. For we are
+<note n="f" place="margin">1. S. Pet. 1.2.</note> 
+                  <hi>elect, according to the foreknowledge of God the Father, through ſanctification of the Spirit unto obedience, and sprinkling of the blood of Ieſus Chriſt.</hi> So both theſe workes muſt concurre to our <hi>election.</hi>
+               </p>
+               <p>Q. <hi>Which is the ninth Article?</hi>
+               </p>
+               <p>
+                  <hi>A. I believe the Catholike Church, the Communion of Saints.</hi> Or
+<note n="g" place="margin">Nic. Creed.</note> 
+                  <hi>I believe one Catholike and Apostolike Church: Catholike</hi> for time and place, <hi>Apoſto<g ref="char:EOLhyphen"/>like</hi> for faith and government.</p>
+               <p>Q. <hi>Why call you this Church a</hi> Com<g ref="char:EOLhyphen"/>munion of Saints?</p>
+               <p>
+                  <hi>A.</hi> Becauſe it is a ſociety of men,
+<pb n="25" facs="tcp:40718:14"/>that are Sanctified in Baptiſme, by Faith in <hi>Chriſt,</hi> through the operation of the Spirit.</p>
+               <p>Q. <hi>What is a</hi> Church?</p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="h" place="margin">Art. 19.</note> 
+                  <hi>The viſible Church of Chriſt, is a Congregation of faithfull men, in the which the pure word of God is preached, and the Sacraments be duely miniſtred, according to Chriſts Ordinance, in all thoſe things, that of neceſſity are requiſite to the ſame.</hi>
+               </p>
+               <p>Q. <hi>What doeſt thou collect from hence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Theſe three things. 1. That the Church conſiſts of <hi>Faithfull men;</hi> that is, of ſuch who profeſſe the Chriſtian faith. 2. <hi>The word of God</hi> muſt be ſincerely <hi>Preached.</hi> And thirdly, <hi>The Sacra<g ref="char:EOLhyphen"/>ments</hi> muſt be <hi>duely miniſtred</hi> to the Congregation, <hi>according to Chriſt's Or<g ref="char:EOLhyphen"/>dinance.</hi>
+               </p>
+               <p>Q. <hi>Js it lawfull for every Chriſtian, that will, to preach the word, and admini<g ref="char:EOLhyphen"/>ſter the Sacraments?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No,
+<note n="i" place="margin">Art. 23.</note> 
+                  <hi>it is not lawfull for any man to do ſo, unleſſe he be lawfully called and ſent to execute the ſame.</hi>
+               </p>
+               <pb n="26" facs="tcp:40718:15"/>
+               <p>Q. <hi>Whom judge you to be</hi> lawfully cal<g ref="char:EOLhyphen"/>led and ſent?</p>
+               <p>
+                  <hi>A.</hi> All thoſe,
+<note n="k" place="margin">Ibid.</note> 
+                  <hi>who be choſen and cal<g ref="char:EOLhyphen"/>led to this work by men, who have publike authority given unto them in the Congre<g ref="char:EOLhyphen"/>gation, to call and ſend Miniſters into the Lords Vineyard.</hi>
+               </p>
+               <p>Q. <hi>Who have publike authority given them, to call and ſend Miniſters into the Lords <g ref="char:V">Ʋ</g>ineyard?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Onely <hi>Biſhops</hi> in the Church of <hi>England:</hi> as is to be ſeen Article 36. and in the <hi>Book of Ordination.</hi>
+               </p>
+               <p>Q. <hi>Why doth this Church allow no other but Biſhops to give orders?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe ſhe findes no meere men allowed to do it in the New Teſtament, but only the <hi>Apoſtles</hi> and <hi>Biſhops</hi> their Succeſſors. And ſhe keeps cloſe to Scrip<g ref="char:EOLhyphen"/>ture.</p>
+               <p>Q. <hi>Have</hi> Biſhops <hi>this</hi> Power of Or<g ref="char:EOLhyphen"/>dination <hi>conferr'd upon them in Scrip<g ref="char:EOLhyphen"/>ture?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is evident they have.
+<note n="l" place="margin">At the end of the ſe<g ref="char:EOLhyphen"/>cond Ep. to Timothy.</note> 
+                  <hi>Timothy</hi> was the <hi>firſt Biſhop of the Church of the Epheſians.</hi> And upon him S. <hi>Paul</hi> layes this charge,
+<note n="m" place="margin">1. Tim. 5.22.</note> 
+                  <hi>Lay hands ſuddainly on no
+<pb n="27" facs="tcp:40718:15"/>man.</hi>
+                  <note n="n" place="margin">At the end of the Ep. to Ti<g ref="char:EOLhyphen"/>tus.</note> 
+                  <hi>Titus</hi> was the <hi>firſt Biſhop of the Church of the Cretians;</hi> And to him the ſame Apoſtle ſpeakes thus;
+<note n="o" place="margin">Tit. 1.5.</note> 
+                  <hi>For this cauſe left I thee in Creet, that thou ſhould, eſt ordaine Presbyters,</hi> or <hi>Elders in every City.</hi>
+               </p>
+               <p>Q. <hi>Is not this power given to</hi> Presby<g ref="char:EOLhyphen"/>ters?</p>
+               <p>
+                  <hi>A.</hi> Not any where in the New Teſt<g ref="char:EOLhyphen"/>ament.</p>
+               <p>Q. <hi>Why doe you ſay,</hi> I beleive the Ca<g ref="char:EOLhyphen"/>tholique Church, <hi>and not, J beleive in the Catholique Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it is a part of my Creed to <hi>beleive</hi> that there is <hi>one Catholik Church:</hi> but it is no part of my Creed, to <hi>beleive in,</hi> or to put my confidence in the Church; ſince the Church is a Congre<g ref="char:EOLhyphen"/>gation of reaſonable Chriſtian Creatures: and
+<note n="p" place="margin">
+                     <hi>Hâc prae<g ref="char:EOLhyphen"/>poſitionis ſyllabâ IN Creator a Creaturis ſocernitur, &amp; divina ſeperantur abhumanis. Rufin in Symb. n.</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</note> this is a peculiar which belongs on<g ref="char:EOLhyphen"/>ly to the <hi>Creator,</hi> God bleſſed for ever. And I will <hi>beleive the Church,</hi> ſo long as ſhe contradicts not God in his word. But if ſhe doe, I ſhall forbeare to credit her in ſuch things. I will <hi>beleive God,</hi> who is truth it ſelfe; and <hi>believe in that God,</hi> who is able to undeceive her, and
+<pb n="28" facs="tcp:40718:16"/>to lead her into the way of all truth. I will only beleive in him, who cannot deceive or be deceived; who cannot be overtopped or croſſed.</p>
+               <p>Q. <hi>Why ſay you,</hi> one Catholique Church?</p>
+               <p>
+                  <hi>A.</hi> Becauſe
+<note n="*" place="margin">
+                     <hi>Vniverſa Eccleſia ex multis con<g ref="char:EOLhyphen"/>ſtat Eccle<g ref="char:EOLhyphen"/>ſiis, ſicut univerſa terra ex multis ter<g ref="char:EOLhyphen"/>ris. Aug. de civit. Dei. l.</hi> 13. <hi>c.</hi> 12.</note> though there be many particular Churches, yet there is but <hi>one Catholique</hi> or univerſall Church, which is not bounded but with
+<note n="q" place="margin">Pſal. 2.8.</note> 
+                  <hi>the uttermoſt parts of the earth,</hi> and all theſe are but <hi>one</hi> in faith and Government; as our Sa<g ref="char:EOLhyphen"/>viours Body, though conſiſting of many Members, is but one, knit together by ſinewes, and quickened with the ſame Soule.</p>
+               <p>Q. <hi>The tenth Article?</hi>
+               </p>
+               <p>
+                  <hi>A. I beleeve the forgiveneſſe of ſins.</hi>
+               </p>
+               <p>Q. <hi>Why doth this Article follow imme<g ref="char:EOLhyphen"/>diatly after mention of the Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe it is a bleſſing, which God beſtowes only in the Church, and upon the Members of the Church.</p>
+               <p>Q. <hi>Is Salvation to be hoped for in the Church only?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is ſo, by the joynt conſent both of the Ancient and Moderne writers.</p>
+               <pb n="29" facs="tcp:40718:16"/>
+               <p>Q. <hi>What's the reaſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe
+<note n="r" place="margin">Eph. 1.22, 23.</note> 
+                  <hi>The Church is the Body of Chriſt.</hi> As therefore no Member, that is ſeperated from the body, receives life by or with the body; neither doth any Chriſtian partake of the life of grace, or forgiveneſſe of ſinnes, that is divided, or cut off from <hi>the Church,</hi> which is <hi>Chriſts Body.</hi> Obſerve, the body receives life from the head, and diſtributes it to all the members that it hath.
+<note n="ſ" place="margin">Ib. <hi>&amp;</hi> Col. 1.18.</note> 
+                  <hi>Chriſt is the head of the Church;</hi> from him the Church receives life and comfort, and conveies them to every particular member, that ſo they may live, and diſcharge their ſeverall duties. But divided from the body, the members can receive no life or comfort from the head.</p>
+               <p>Q. <hi>Is this remiſſion of ſinnes to be found in all Churches?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes, without queſtion in all ſuch Churches, wherein
+<note n="t" place="margin">Art. 19.</note> 
+                  <hi>the pure word of God is preached, and the Sacraments be duly miniſtred, according to Chriſts or<g ref="char:EOLhyphen"/>dinance;</hi> but in no other.</p>
+               <p>Q. <hi>To whom is this forgiveneſſe pro<g ref="char:EOLhyphen"/>miſed?</hi>
+               </p>
+               <pb n="30" facs="tcp:40718:17"/>
+               <p>
+                  <hi>A.</hi> To all thoſe,
+<note n="u" place="margin">Abſolu<g ref="char:EOLhyphen"/>tion.</note> 
+                  <hi>that truly repent, and unfeignedly beleeve his holy Gospell.</hi>
+                  <note n="*" place="margin">S. Mat. 11.28.</note> He calls to all, he is mercifull to all: he hath given us a taſt of his goodneſſe in pardoning the greateſt and fowleſt ſinnes. Not that we might imitate or practice them; but that we might un<g ref="char:EOLhyphen"/>derſtand, that our gracious God is ready to pardon the greateſt ſinner, if ſo he turne unto the Lord humbly with un<g ref="char:EOLhyphen"/>feigned ſorrow and repentance, and bring forth fruits worthy of amendment of life.</p>
+               <p>Q. <hi>May the</hi> ſinne againſt the holy Ghoſt <hi>be pardoned?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> This ſinne is raiſed to the full height, it is made up by finall impeni<g ref="char:EOLhyphen"/>tence. Take away finall impenitence, and the ſinne is pardonable.
+<note n="x" place="margin">S. <hi>Mat.</hi> 4.17.</note> 
+                  <hi>Repent</hi> (ſaith the Scripture) <hi>and the Kingdome of Heaven is at hand:</hi> but
+<note n="y" place="margin">S. Luc. 13.3.5.</note> 
+                  <hi>unleſſe you repent, ye ſhall all periſh.</hi>
+               </p>
+               <p>Q. <hi>This is comfortable doctrine: but what reaſon have you for it?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> My faith reſts upon Gods good<g ref="char:EOLhyphen"/>neſſe, and gracious promiſes.
+<note n="z" place="margin">
+                     <hi>De re<g ref="char:EOLhyphen"/>miſſione peccatoru<g ref="char:cmbAbbrStroke">̄</g> ſufficere deberet ſo<g ref="char:EOLhyphen"/>ta creduli<g ref="char:EOLhyphen"/>tas. Quis enim can<g ref="char:EOLhyphen"/>ſas aut ra<g ref="char:EOLhyphen"/>tionem re quirat, ubi indulgentia principalis eſt?</hi> Rufin. <hi>in Symb. n.</hi> 171.</note> When God hath ſpoke the word, reaſon muſt ſubmit.</p>
+               <pb n="31" facs="tcp:40718:17"/>
+               <p>Q. <hi>Which is the eleventh Article?</hi>
+               </p>
+               <p>
+                  <hi>A. J beleeve the Reſurrection of the body;</hi> namely, that this very body, in which I live, and move, ſhall be raiſed out of the duſt in the laſt day.</p>
+               <p>Q. <hi>What, this very body?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Certainly this ſelfe ſame body. For doth not <hi>Job</hi> ſay;
+<note n="a" place="margin">Job. 19.26, 27.</note> 
+                  <hi>I ſhall ſee God in my fleſh, and not with other, but with</hi> THESE EYES <hi>ſhall I behold him.</hi> And S. <hi>Paul,</hi> THIS CORRVPTIBLE <hi>ſhall put on incorruption, and</hi> THIS MORTALL,
+<note n="b" place="margin">1. Cor. 15.53.</note> 
+                  <hi>ſhall put on immortality. This</hi> and no o<g ref="char:EOLhyphen"/>ther.
+<note n="c" place="margin">
+                     <hi>Rufin. in Symb.</hi> n. 182.</note> In the Church of <hi>Aquileia</hi> there<g ref="char:EOLhyphen"/>fore, at the rehearſall of the Creed, e<g ref="char:EOLhyphen"/>very man when he came to this Arti<g ref="char:EOLhyphen"/>cle, ſigned his forhead with the ſigne of the Croſſe, and ſaid, <hi>I beleive the Reſur<g ref="char:EOLhyphen"/>rection of</hi> THIS FLESH, <hi>this</hi> very <hi>fleſh,</hi> that he touched with his finger.</p>
+               <p>Q. <hi>Js not this a wonderfull thing?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is ſo, and ſo are the reſt of the Articles, if ſtrictly ſcanned; all above the eye of Reaſon.
+<note n="d" place="margin">1. Cor. 15.36. <hi>&amp;c.</hi>
+                  </note> S. <hi>Paul</hi> gives us a ſimily of <hi>a grain of Wheat,</hi> how it is bu<g ref="char:EOLhyphen"/>ried, and dies, and rots, and then riſeth again far more freſh, then it was caſt
+<pb n="32" facs="tcp:40718:18"/>into the earth. Were this but rarely ſeen, it would ſeem moſt wonder<g ref="char:EOLhyphen"/>full.</p>
+               <p>Q. <hi>What if the body be burned to aſh<g ref="char:EOLhyphen"/>es?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="e" place="margin">
+                     <hi>Clem. ep.</hi> 1. <hi>ad Cor.</hi> p. 34, 35.</note> S. <hi>Clement,</hi>
+                  <note n="f" place="margin">Phil. 4.3.</note> (of whom S. <hi>Paul</hi> makes mention, <hi>Phil.</hi> 4.3.) in that E<g ref="char:EOLhyphen"/>piſtle, which in the primitive times was uſually read in all Churches, to prevent this queſtion, gives us the example of the <hi>Phenix,</hi> which every 500 yeares is burnt to Aſhes; and out of thoſe Aſnes ariſeth the ſame <hi>Phenix</hi> againe, young, freſh, and vigorous.</p>
+               <p>Q. <hi>Have we no ſuch example in Scrip<g ref="char:EOLhyphen"/>ture?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We have <hi>Ezek.</hi> 37.1. where the dead, dry, ſcatter'd bones come toge<g ref="char:EOLhyphen"/>ther, <hi>bone to his bone,</hi> and ſinewes and fleſh came upon them, and fleſh upon the skin, and breath enter'd into them, and they ſtood up an exceeding great armie.</p>
+               <p>Q. <hi>When ſhall this Reſurrection be?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="g" place="margin">1. Cor. 15.24.</note> At the laſt and great day of Doome.</p>
+               <p>Q. <hi>What becomes of the Soule all this
+<pb n="33" facs="tcp:40718:18"/>while? does that alſo dye?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No.</p>
+               <p>Q. <hi>How prove you that?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="h" place="margin">Mat. 22.32.</note> God calls himſelf the <hi>God of A<g ref="char:EOLhyphen"/>braham, Iſaac, and Iacob,</hi> but <hi>God is not the God of the dead, but of the living.</hi> Though then they be dead in body, in ſoule they live.
+<note n="i" place="margin">Luc. 16.22.</note> We finde <hi>Lazaru's</hi> ſoule alive in a place of bliſſe,
+<note n="k" place="margin">Ib v. 24.</note> and <hi>Di<g ref="char:EOLhyphen"/>ve's</hi> ſoule in a place of torment,
+<note n="l" place="margin">Ib. v. 28.</note> while his brethren were living here on earth. And our ſaviour promiſed the penitent Theif, that
+<note n="m" place="margin">Luc. 23.43.</note> he ſhould be <hi>that day with him in Paradice.</hi> Which was ſpoke of his ſoule; for
+<note n="n" place="margin">Io 19.31, 32.</note> his body was that day bu<g ref="char:EOLhyphen"/>ried in the grave. To theſe may be added
+<note n="o" place="margin">Rev. 6.9.</note> the ſoules of the Martyrs, which lye under the Altar.</p>
+               <p>Q. <hi>By whoſe power ſhall they be raiſed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By the power of Chriſt. For
+<note n="p" place="margin">Ioh. 5.28, 29.</note> all <hi>that are in their graves ſhall heare the voyce of</hi> THE SON OF MAN: <hi>And ſhall come forth they that have done good, unto the Reſurrection of life; and they that have done evill, unto the Reſurrection of damnation.</hi> If then we ſhould not have theſe our own very bodies at the reſur<g ref="char:EOLhyphen"/>rection,
+<pb n="34" facs="tcp:40718:19"/>God ſhould deale unjuſtly to torment thoſe bodies in hell fire, which had never done amiſſe.</p>
+               <p>Q <hi>The last Article.</hi>
+               </p>
+               <p>
+                  <hi>A. The life everlaſting.</hi> For they that have done good
+<note n="q" place="margin">Dan. 12.3.</note> 
+                  <hi>ſhall ſhine as the stars for ever and ever:</hi>
+                  <note n="r" place="margin">Mat. 25.41.</note> and they that have done evill, <hi>ſhall be curſed into everlaſt<g ref="char:EOLhyphen"/>ing fire.</hi>
+                  <note n="ſ" place="margin">Athan. Creed.</note> 
+                  <hi>This is the Catholique Faith, which execept a man beleive faithfully, he cannot be ſaved.</hi>
+               </p>
+            </div>
+            <div n="34-84" type="pages">
+               <p>Q. <hi>You ſaid that your Godfathers and Godmothers did alſo promiſe for you, that you ſhould keep God's Commandements. Tell me, how many there be?</hi>
+               </p>
+               <p>
+                  <hi>A. Ten.</hi>
+               </p>
+               <p>Q. <hi>Which be they?</hi>
+               </p>
+               <p>
+                  <hi>A. The ſame which God ſpake in the twentieth Chapter of</hi> Exodus, <hi>ſaying, I am the Lord thy God, which have brought thee out of the Land of</hi> Egypt, <hi>out of the houſe of bondage.</hi> This is the preface; wherein he ſhews, who it is that ſpeaks unto them, and laies this obligation upon them, to harken to his words.</p>
+               <p>Q. <hi>Which is the firſt Commandement?</hi>
+               </p>
+               <p>
+                  <hi>A. Thou ſhalt have none other Gods
+<pb n="35" facs="tcp:40718:19"/>but me.</hi> None but this God, who by a ſtrong hand and ſtretched out arme deli<g ref="char:EOLhyphen"/>vered them out of the hands of <hi>Pharao,</hi> and from all his Hoſt; and brought them as ſafely as miraculouſly through the red Sea.</p>
+               <p>Q. <hi>What God is this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The ſame God, whom in our Creed we confeſſe to be the <hi>Father Al<g ref="char:EOLhyphen"/>mighty,</hi> maker of Heaven and earth.</p>
+               <p>Q. <hi>VVhy then doth he not tell them ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe they were eye-witneſſes of this his miraculous power; wherein he manifeſted his <hi>Omnipotencie,</hi>
+                  <note n="t" place="margin">Ex. 14.21.</note> in commanding the Winds, and the Sea;
+<note n="u" place="margin">Ex. 13.21.14.20.</note> in making the day as night to the <hi>E<g ref="char:EOLhyphen"/>gyptians,</hi> and the night as day to the <hi>Iſ<g ref="char:EOLhyphen"/>raelites,</hi> by the Cloud and Fiery Pillar:
+<note n="*" place="margin">Ib. v. 24.25. &amp;c.</note> In routing and deſtroying the mighty, and delivering the naked from the pe<g ref="char:EOLhyphen"/>rill of the ſword.
+<note n="x" place="margin">Num. 20.11. Pſ. 114.8.</note> In cauſing the rock of flint to yeeld a ſpring of water,
+<note n="y" place="margin">Ex. 16.13.15.</note> and the heavens to ſhowre downe <hi>Manna</hi> and <hi>Quailes</hi> for their food. This his late kindneſſe bound them to harken to him.</p>
+               <pb n="36" facs="tcp:40718:20"/>
+               <p>Q. <hi>Which is the ſecond Commande<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>A. Thou ſhalt not make to thy ſelfe any Graven Image, nor the likeneſſe, &amp;c.</hi>
+               </p>
+               <p>Q. <hi>Is it not lawfull to make a</hi> Graven Image?</p>
+               <p>
+                  <hi>A.</hi> It is: otherwiſe
+<note n="z" place="margin">1. Kings. 6.23.</note> 
+                  <hi>Solomon</hi> would not have made
+<note n="a" place="margin">1. Kings. 6.23.</note> thoſe two <hi>Cherubims,</hi> much leſſe have
+<note n="b" place="margin">Heb. 9.5.</note> placed them in the Holy of Holies, over the mercy ſeat: and theſe are they (as I take it) which are called the <hi>Cherubims of Image-worke,</hi> 2. <hi>Chron.</hi> 3.10. Neither would he have made the
+<note n="c" place="margin">1. Kings 6.29.</note> 
+                  <hi>carved Cherubims,</hi> &amp; Palm<g ref="char:EOLhyphen"/>trees upon the walls
+<note n="d" place="margin">Ib. v. 32.35.</note> and upon the doores both of the Temple and Oracle. nor
+<note n="e" place="margin">2. Chron. 4.3.</note> the <hi>molten Oxen,</hi> or
+<note n="f" place="margin">1. Kings. 7.36.</note> 
+                  <hi>graven Lyons.</hi>
+                  <note n="g" place="margin">Ib. v. 51.</note> All which he cauſed to be ſet in the houſe of the Lord.</p>
+               <p>Q. <hi>Where's the fault then?</hi>
+               </p>
+               <p>
+                  <hi>A. In making them to thy ſelfe,</hi> to be <hi>thy God; in bowing downe to them, and worſhiping them.</hi> Elſewhere therefore it is ſaid,
+<note n="h" place="margin">Lev. 26.1.</note> 
+                  <hi>Yee ſhall not ſet up any Image of ſtone in your Land,</hi> TO BOW DOWN VNTO IT. And
+<note n="i" place="margin">Deut. 17.15. Pſ. 97.7.</note> the curſe is laid upon thoſe that worſhip carved or molten I<g ref="char:EOLhyphen"/>mages,
+<pb n="37" facs="tcp:40718:20"/>not upon thoſe that make them; unleſſe they make them for that or the like uſe.</p>
+               <p>Q. <hi>VVhy ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe this is God's honour, and he will not part with it to any other, <hi>Thou ſhalt worſhip the Lord thy God, and</hi> HIM ONLY SHALT THOV SERV.
+<note n="k" place="margin">Deut. 13.4.</note> So the Law,
+<note n="l" place="margin">S. Mat. 4.10.</note> ſo the Goſpell. As then they offend that give God's worſhip to Idols; ſo do they ſinne againſt his Com<g ref="char:EOLhyphen"/>mandements, that do not <hi>bow downe to God, and worſhip him.</hi> As the former are <hi>Jdolaters,</hi> the latter are little better then <hi>Atheiſts;</hi> for
+<note n="m" place="margin">Tit. 1.16.</note> 
+                  <hi>in their workes,</hi> in their Church duties, <hi>they deny him</hi> to be their God.</p>
+               <p>Q. <hi>Hath not God himſelfe given a rea<g ref="char:EOLhyphen"/>ſon for this.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He hath in the very next words, <hi>For I the Lord thy God, am a jealous God.</hi> And the condition of <hi>jealouſie</hi> is, that as it cannot endure to have that, which is our due given to another, neither can we diſgeſt to have it denied to our ſelvs. For it is all one to me, to have that, which is mine, denied me, or given to another.</p>
+               <pb n="38" facs="tcp:40718:21"/>
+               <p>Q. <hi>What followes upon this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> That God is equally angry with them, that do not <hi>bow downe to him,</hi> and with thoſe, that <hi>bow dow down to Idols:</hi> he counts them equally <hi>haters of him<g ref="char:EOLhyphen"/>ſefe,</hi> and will equally <hi>
+                     <g ref="char:V">Ʋ</g>iſite the ſinnes of the Fathers upon the children, unto the third and fourth generation,</hi> of them that ſin againſt him either way.</p>
+               <p>Q. <hi>But how doth he eſteem of them, that deteſt</hi> Idolatry, <hi>and give him his due worſhip, that</hi> bow downe to him, and worſhip him?</p>
+               <p>
+                  <hi>A.</hi> He reckoneth them among his lovers and friends; <hi>they love me</hi> ſaith he, <hi>and keep my Commandements.</hi> And as they <hi>love him,</hi> ſo doth he love them; for <hi>in them he will ſhew mercy unto thou<g ref="char:EOLhyphen"/>ſands</hi> of their generation. And ſurely this is reaſon ſufficient to move every Chriſtian
+<note n="n" place="margin">Pſ. 95.6.</note> to <hi>worſhip and fall downe, and kneele before the Lord</hi> our God.</p>
+               <p>Q. <hi>The third Commandement.</hi>
+               </p>
+               <p>
+                  <hi>A. Thou ſhalt not take the name of the Lord thy God in vaine, for the Lord will not hold him guiltleſſe that taketh his name in vaine.</hi>
+               </p>
+               <pb n="39" facs="tcp:40718:21"/>
+               <p>Q. <hi>What is the meaning of this Com<g ref="char:EOLhyphen"/>mandement?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="o" place="margin">Yee ſhall not <hi>ſweare.</hi> by my Name <hi>falſely;</hi> nei<g ref="char:EOLhyphen"/>ther ſhalt thou <hi>pro<g ref="char:EOLhyphen"/>phane the Name of thy God.</hi> Lev. 19.12.</note> That we doe not raſhly, and upon ſleight occaſions take his <hi>Name</hi> or word into our mouthes; much leſſe <hi>pro<g ref="char:EOLhyphen"/>phane</hi> or blaſpheme it. That we <hi>ſweare</hi> not raſhly, or vainely, or falſely.</p>
+               <p>Q. <hi>Is it lawfull to ſweare at all?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is; otherwiſe the Pſalmiſt would never have ſaid, that
+<note n="p" place="margin">Pſal. 63.12.</note> 
+                  <hi>All they, that ſweare by God, ſhall be commended.</hi> Indeed
+<note n="q" place="margin">Heb. 6.16. Exod. 22.11.</note> ſome Controverſies cannot well be ended without an oath. But
+<note n="r" place="margin">Ier. 4.2.</note> it muſt be taken <hi>in juſtice, and judgement, and truth:</hi> that is, as is confeſſed on all hands, we may ſweare only to doe ſuch things, as are lawfull, and honeſt; and make oath of ſuch things only, as are certainly knowne unto us.</p>
+               <p>Q. <hi>It is not good then to</hi> ſweare, <hi>but upon juſt and neceſſary occaſion.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is not; for our Saviours com<g ref="char:EOLhyphen"/>mand is,
+<note n="ſ" place="margin">S. Mat. 5.34.</note> 
+                  <hi>Sweare not at all. But let your Communication be Yea, Yea; Nay, Nay: For whatſoever is more then theſe, com<g ref="char:EOLhyphen"/>meth of evill.</hi> Either <hi>of evill</hi> in thy ſelfe, or in others. <hi>Of evill</hi> in thy ſelfe, when
+<pb n="40" facs="tcp:40718:22"/>thou haſt got a naughty cuſtome of ſwearing; or haſt behaved thy ſelfe ſo ill, that no man will beleeve thee with<g ref="char:EOLhyphen"/>out an oath. <hi>Of evill</hi> in others, when they are ſo miſtruſtfull, that they will not beleeve any man without an oath. Or when by reaſon of injuries, or con<g ref="char:EOLhyphen"/>troverſies between Neighbours, thou art brought upon thy oath.</p>
+               <p>Q. <hi>Who ſinne againſt this Commande<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All common and uſuall ſwearers, all blaſphemers and prophaners of Gods name or word; all perjured perſons; all that ſweare, before they are reſolved of the point in queſtion; all that ſweare, what they know not, though never ſo true: all they that enforce, or entice, or occaſion any perſon to ſweare that, which is contrary to Gods word, or honour, or the truth, or what is doubt<g ref="char:EOLhyphen"/>full unto himſelfe.</p>
+               <p>Q. <hi>What's the reaſon for this?</hi>
+               </p>
+               <p>A. <hi>For the Lord will not hold him guiltleſſe, that taketh his name in vaine.</hi> Though it be not ſo great a ſinne as <hi>Ido<g ref="char:EOLhyphen"/>latry,</hi> or as the contempt or neglect of
+<pb n="41" facs="tcp:40718:22"/>Gods worſhip; though he threatens not to <hi>puniſh</hi> them in ſo deep a meaſure, yet <hi>he will not hold them guiltleſſe;</hi> he will puniſh them according to the meaſure of their ſinne; though not ſo ſeverely as <hi>unto the third and fourth generation.</hi>
+               </p>
+               <p>Q. <hi>Which is the fourth Commande<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>A. <hi>Remember, that thou keep holy the Sabbath day. Six dayes ſhalt thou labour, &amp;c.</hi>
+               </p>
+               <p>Q. <hi>This precept begins not like the reſt. What conceive you to be the reaſon of this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It begins with a <hi>Memento,</hi> for theſe reaſons. I. Becauſe it is not mo<g ref="char:EOLhyphen"/>rall and perpetuall, as the reſt are. II. Be<g ref="char:EOLhyphen"/>cauſe it was but now newly given. III. Becauſe the Iewes were a people much given to the world, much ſet up<g ref="char:EOLhyphen"/>on their profit; and ſo they might make a gaine, they ſpared neither man nor beaſt.</p>
+               <p>Q. <hi>Was not this precept obſerved be<g ref="char:EOLhyphen"/>fore this time?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Truly no; we read indeed, that
+<note n="t" place="margin">Gen. 2.2.</note> 
+                  <hi>on the ſeventh day God ended his worke,
+<pb n="42" facs="tcp:40718:23"/>and reſted on the ſeventh day from all his worke which he had made.</hi> And that
+<note n="u" place="margin">Ib. v. 3.</note> 
+                  <hi>God bleſſed the ſeventh day, and ſancti<g ref="char:EOLhyphen"/>fied it, becauſe that in it he had reſted from all his worke.</hi> But we find not any command given to man for keeping the <hi>ſeventh day;</hi> or that any of thoſe good men before <hi>Moſes,</hi> kept it holy. Nei<g ref="char:EOLhyphen"/>ther is any mention at all made of the Sabbath, from <hi>Gen.</hi> 2. to <hi>Exod.</hi> 16.</p>
+               <p>Q. <hi>What meet you with there?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> There I find, that when God had delivered the Children of <hi>Iſrael</hi> out of the hand of <hi>Pharao,</hi> and all his hoſt, when he had brought them thorough the red Sea into the wilderneſſe, when he had fed them with Manna and Quailes from Heaven, that
+<note n="*" place="margin">Exod. 16.27.</note> he ceaſed to raine downe this heavenly food on the ſeventh day,
+<note n="x" place="margin">Ib. v. 25, 26.</note> that the people might take notice of the <hi>Sabbath.</hi> There in<g ref="char:EOLhyphen"/>deed the Lord commanded, that
+<note n="y" place="margin">Ib. v. 29.</note> 
+                  <hi>no man goe out of his place on the ſeventh day.</hi> And
+<note n="z" place="margin">Ib. v. 30.</note> 
+                  <hi>the people</hi> accordingly <hi>reſted on the ſeventh day:</hi> but it was only from gathering Manna and Quailes, for ought can be thence collected.</p>
+               <pb n="43" facs="tcp:40718:23"/>
+               <p>Q. <hi>Is this all?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Yes. For though God intimated unto them ſeverall wayes, that he had made this a day of reſt, yet he com<g ref="char:EOLhyphen"/>mands it not to be <hi>kept holy,</hi> or to be ſet apart for his ſervice, till <hi>Exod</hi> 20.</p>
+               <p>Q. <hi>What reaſon is there for this reſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. That they might have a day to meditate upon the Creation, and ſo to be put in mind of this their Creator. 2. That they might learne to be holy as God is holy, by making <hi>the ſeventh day an holy day</hi> to ſerve the Lord in. 3. That they might learne of God to be mercifull, and to give their ſervants reſt, as he had given them reſt from their bondage. For ſo ſaith the Lord, <hi>Deut.</hi> 5.14. <hi>That thy man-ſervant and thy maid-ſervant may reſt as well as thou.</hi> Where he addes a ſecond <hi>memen<g ref="char:EOLhyphen"/>to</hi> to this Commandement:
+<note n="a" place="margin">Deut. 5.15.</note> 
+                  <hi>And</hi> REMEMBER, ſaith he, <hi>that thou waſt a ſervant in the Land of Aegypt. and that the Lord thy God brought thee out thence, through a mighty hand, and by a ſtretched out arme:</hi> THEREFORE <hi>the Lord thy God commanded thee to keep the
+<pb n="44" facs="tcp:40718:24"/>Sabbath day.</hi> So the ſame God, that created the world, brought them out of <hi>Aegypt.</hi>
+               </p>
+               <p>Q. <hi>Doe we keep the ſame day holy?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, we keep the firſt day of the week holy; that day, whereon Chriſt aroſe from the dead.</p>
+               <p>Q. <hi>Did Chriſt ariſe from the grave on the first day of the week?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Scripture manifeſts it. For we read, that <hi>when Jeſus was riſen early, the firſt day of the week, he appeared firſt to Mary Magdalen.</hi> S<hi rend="sup">t</hi> Mark. 16.9.</p>
+               <p>Q. <hi>Is this agreeable to Gods com<g ref="char:EOLhyphen"/>mand?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Though it be not agreeable to the letter, it failes not of the meaning. Though we keep not <hi>the ſeventh day,</hi> we keep <hi>one of the ſeven,</hi> which imitates Gods reſt after our ſixe dayes labour. And an hard matter it is to prove, that God gave over ſending <hi>Manna</hi> upon the <hi>ſeventh day</hi> of the week: and yet that day the people reſted.</p>
+               <p>Q. <hi>From that time, when God com<g ref="char:EOLhyphen"/>manded the</hi> ſeventh day; <hi>is it lawfull for man to alter the day?</hi>
+               </p>
+               <pb n="45" facs="tcp:40718:24"/>
+               <p>
+                  <hi>A.</hi> A leſſe bleſſing gives way to the greater, <hi>Creation</hi> to <hi>Redemption.</hi> Be<g ref="char:EOLhyphen"/>ſides, we know, that ſhadowes and fi<g ref="char:EOLhyphen"/>gures were to vaniſh, when <hi>Chriſt</hi> came. But the <hi>Sabbath</hi> was <hi>a ſhadow, Col.</hi> 2.16, 17. it was therefore to vaniſh, when our Saviour had actually accompliſhed, what was prefigured by the <hi>Sabbath.</hi> The Apoſtles therefore after our Savi<g ref="char:EOLhyphen"/>ours Reſurrection, made the firſt day of the week the <hi>day of reſt;</hi> as appeares S. <hi>Joh.</hi> 20.26. 1. <hi>Cor.</hi> 16.2. <hi>Apoc.</hi> 1.10.</p>
+               <p>Q. <hi>Did the Apoſtles command us to keep this day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; but we
+<note n="b" place="margin">1. Cor. 11.1.</note> according to Saint <hi>Pauls</hi> rule imitate the <hi>Apoſtles;</hi> know<g ref="char:EOLhyphen"/>ing, that they were guided by the Spirit of God. The <hi>Apoſtles</hi> began to keep this day, the firſt day of the week; and the Church of God hath done ſo ever ſince. The <hi>practice of the Apoſtles</hi> is a ſufficient warrant.</p>
+               <p>Q. <hi>Is it lawfull to doe no manner of worke on this day?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Not the workes of our trade or vocation, to make a gaine thereby. But upon that day we may doe workes of
+<pb n="46" facs="tcp:40718:25"/>neceſſity, and workes of charity.</p>
+               <p>Q. <hi>How prove you this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By our Saviours Doctrine and practice. 1. By his doctrine; for
+<note n="c" place="margin">S. Mat. 12.1. &amp; 3. &amp;c.</note> he juſtified by Scripture, <hi>that it was lawfull for his Diſciples on the Sabbath day, to gather eares of Corne, and eate them.</hi> And that it is as
+<note n="d" place="margin">S. Luc. 14.5.</note> lawfull for us, <hi>to pull our oxe or aſſe out of a ditch on the Sab<g ref="char:EOLhyphen"/>bath day.</hi> This for workes of neceſſity. And for workes of charity, or mercy, he juſtifies them by his owne practice.
+<note n="e" place="margin">S. Mat. 12.13.</note> 
+                  <hi>On the Sabbath day he healed the wi<g ref="char:EOLhyphen"/>thered hand;</hi> as alſo
+<note n="f" place="margin">S. Luc. 14.4.</note> 
+                  <hi>the man ſick of the Palſie.</hi>
+                  <note n="g" place="margin">S. Ioh. 9.14.</note> 
+                  <hi>On this day he opened the eyes of the blind.</hi> And not only ſo, but he gives us directions for the future, aſſuring us, that
+<note n="*" place="margin">S. Marc. 2.27.</note> 
+                  <hi>The Sabbath was made for man, and not man for the Sabbath.</hi>
+               </p>
+               <p>Q. <hi>Which is the fifth Commandement?</hi>
+               </p>
+               <p>A. <hi>Honour thy father and mother,</hi> &amp;c.</p>
+               <p>Q. <hi>Who are meant by</hi> Father and Mo<g ref="char:EOLhyphen"/>ther?</p>
+               <p>
+                  <hi>A.</hi> I. Our naturall Parents. II. The <hi>King and his Miniſters:</hi> that is, all ſuch as are placed in authority by the <hi>King.</hi> III. All my governours, teachers, ſpi<g ref="char:EOLhyphen"/>rituall
+<pb n="47" facs="tcp:40718:25"/>
+                  <hi>Paſtors and Maſters.</hi> And in the laſt place, <hi>all my betters.</hi>
+               </p>
+               <p>Q. <hi>Of naturall Parents there's no queſtion; but is the</hi> King <hi>my</hi> Father?</p>
+               <p>
+                  <hi>A.</hi> The <hi>Kings</hi> ſtile hath ever been
+<note n="h" place="margin">Pater Patriae.</note> the <hi>Father of his Country;</hi> to put us in mind of our filiall duty, and him of the Fatherly and tender affection, he ought to bare to his Subjects. And are not
+<note n="i" place="margin">Eſ. 49.23.</note> 
+                  <hi>Kings and Queenes</hi> called, the <hi>nurſing Fathers, and nurſing Mothers</hi> of the Church? To ſignifie to us, who are the Sonnes of the Church, what they are to us, and how we ought to behave our ſelves towards them.</p>
+               <p>Q. <hi>How ought we to</hi> honour the King?</p>
+               <p>
+                  <hi>A.</hi> As Gods ſubſtitute and immedi<g ref="char:EOLhyphen"/>are Vicegerent: for
+<note n="k" place="margin">2. Chron 9.8.</note> 
+                  <hi>on the Lords throne he ſits, to be King for the Lord thy God.</hi> So then he is next to God, and leſſe then God only.</p>
+               <p>Q. <hi>Wherein doth this</hi> honour <hi>conſiſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="l" place="margin">Pro. 2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.<gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> v. 24.21.</note> In fearing to diſpleaſe him;
+<note n="m" place="margin">1. S. Pet. 2.13.</note> in obeying him, in reverencing and loving him;
+<note n="o" place="margin">Rom. 13.6, 7.</note> in giving him, what ever is due to him by the Law of nature, the Law of God, and the Law of the Land.</p>
+               <pb n="48" facs="tcp:40718:26"/>
+               <p>Q. <hi>How farre forth muſt we</hi> obey the King?</p>
+               <p>
+                  <hi>A.</hi> So farre forth, as he commands nothing that is contrary to the Law of nature, or the Law of God.</p>
+               <p>Q. <hi>May the King command, what is evil?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He ought not. If he doe,
+<note n="p" place="margin">Act. 5.29.</note> 
+                  <hi>we muſt obey God, and not man.</hi> But though he may not command us to doe that, which in it ſelfe is evill, or unlawfull, yet he may prohibite ſome things, that in themſelves are lawfull and honeſt; though they ſeeme neceſſary for the preſervation of a Common-wealth. And this prohibition we are bound to obey.</p>
+               <p>Q. <hi>How prove you this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="q" place="margin">Jer. 35.6, 7.</note> 
+                  <hi>Jonadab</hi> commanded the <hi>Re<g ref="char:EOLhyphen"/>chabites</hi> his ſonnes, that neither they, nor their Children ſhould 1. <hi>drink wine</hi> for ever. And that they ſhould neither 2. <hi>build houſe,</hi> nor 3. <hi>ſow ſeed,</hi> nor 4. <hi>plant Vineyard,</hi> nor 5. <hi>have any.</hi> We know, that in themſelves all theſe things are lawfull and honeſt; and yet
+<note n="r" place="margin">Ib. v. 8.</note> they obey<g ref="char:EOLhyphen"/>ed the voyce of their Father <hi>Jonadab,</hi> in forbearing theſe. And God com<g ref="char:EOLhyphen"/>mends them and rewards them for it:
+<pb n="49" facs="tcp:40718:26"/>for his promiſe to them is this,
+<note n="ſ" place="margin">Ib. v. 19.20.</note> 
+                  <hi>Be<g ref="char:EOLhyphen"/>cauſe yee have obeyed the commandement of Jonadab your Father, and kept all his precepts, and done according to all, that he hath commanded you, Jonadab the Sonne of Rechab ſhall not want a man to ſtand before me for ever.</hi> And the <hi>King</hi> hath an higher power over us, then our Parents have.</p>
+               <p>Q. <hi>Are you ſure of this?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> This is learned by daily experi<g ref="char:EOLhyphen"/>ence. If my Father command me one way, and the <hi>Kings</hi> Officer another, I muſt obey the <hi>Kings</hi> Officer, and not my <hi>Father.</hi> The reaſon is, becauſe as I am ſubject to my Father, ſo is my Fa<g ref="char:EOLhyphen"/>ther ſubject to the <hi>King.</hi> The <hi>King</hi> therefore may puniſh my Father for his countermand, and me for obeying it. Indeed my Father is but the Father of a Family, but <hi>the King is the Father of all his Country;</hi> that is, of all the Fami<g ref="char:EOLhyphen"/>lies in His Dominions: He hath there<g ref="char:EOLhyphen"/>fore Power both over me and my Fa<g ref="char:EOLhyphen"/>ther. Beſides,
+<note n="t" place="margin">Ro. 13.4.</note> the King hath the Power of the Sword, of life and death: which a Father hath not. For if my Father kill
+<pb n="50" facs="tcp:40718:27"/>me, the <hi>King</hi> ought to queſtion him, and to execute Iuſtice upon him for this wicked Fact.</p>
+               <p>Q. <hi>May no man controule, or forbid, what the</hi> King <hi>commands?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Surely no: for
+<note n="u" place="margin">1. S. Pet. 2.13.</note> 
+                  <hi>the King is Su<g ref="char:EOLhyphen"/>preme,</hi> the higheſt power under God. All other Civill powers are to be obey<g ref="char:EOLhyphen"/>ed ſo farre forth,
+<note n="*" place="margin">Ib. v. 14.</note> 
+                  <hi>as they are ſent by the King,</hi> as they have Authority from him, and no further. To be otherwiſe taught, is but to be trained up to Rebellion. For the <hi>King</hi> is not only the Fountaine of Honour, but the Fountaine of all Ci<g ref="char:EOLhyphen"/>vill power, within his owne Domini<g ref="char:EOLhyphen"/>ons; as the Apoſtles juſtifie, <hi>Rom.</hi> 13.1. S. <hi>Pet.</hi> 2.14.</p>
+               <p>Q. <hi>But ſuppoſe the</hi> King <hi>command that, which is utterly unlawfull, and con<g ref="char:EOLhyphen"/>trary to Gods word, may we diſobey?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Diſobey him we may, to obey God. That is; we muſt preferre Gods command, before the <hi>Kings.</hi> And this cannot juſtly be called diſobedience, but obedience; ſince we
+<note n="x" place="margin">Ro. 13.1.</note> 
+                  <hi>obey the high<g ref="char:EOLhyphen"/>er Powers,</hi> namely God, <hi>from whom he hath this Power.</hi>
+               </p>
+               <pb n="51" facs="tcp:40718:27"/>
+               <p>Q. <hi>And may we</hi> reſiſt <hi>in this, or ſuch like caſes?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We may not; ſince that God, who hath charged <hi>obedience</hi> upon us,
+<note n="y" place="margin">
+                     <hi>Ib. v.</hi> 2. <hi>Non reſi<g ref="char:EOLhyphen"/>ſtit, quod ſubiectum eſt Aug. de verâ Relig. c.</hi> 35.</note> hath forbidden <hi>reſiſtance</hi> upon paine of <hi>damnation.</hi>
+               </p>
+               <p>Q. <hi>What is to be done in theſe ſtreights?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> When we may not ſubmit to the command injoyned, we muſt ſubmit to the penalty inflicted. Thus did the A<g ref="char:EOLhyphen"/>poſtles of <hi>Christ;</hi> and thus muſt we.</p>
+               <p>Q. <hi>What if the King be a Tyrant, or Perſecuter of the Orthodoxe Faith?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="*" place="margin">
+                     <hi>Magiſtra<g ref="char:EOLhyphen"/>tibus ex a<g ref="char:EOLhyphen"/>nimo defe<g ref="char:EOLhyphen"/>rendus eſt honor, eti<g ref="char:EOLhyphen"/>am tyran<g ref="char:EOLhyphen"/>nis.</hi> Beza <hi>in</hi> Act. 23.5.</note> Yet we muſt ſubmit, as is pre<g ref="char:EOLhyphen"/>ſcribed. After this manner the Apoſtles and their Scholars, ſubmitted to <hi>Nero, Domitian, Julian,</hi> &amp;c.</p>
+               <p>Q. <hi>What is due to the</hi> King <hi>by the Law of God?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="z" place="margin">Ro. 13.1.</note> Subjection, Reverence,
+<note n="a" place="margin">Ib. v. 6, 7.</note> Tri<g ref="char:EOLhyphen"/>bute, Cuſtome,
+<note n="b" place="margin">Prov. 24.21.</note> Feare and
+<note n="c" place="margin">1. S. Pet. 2.17.</note> Honour. And no humane Law can take theſe, or any of theſe from him, ſince <hi>the divine Law is the Supreme Law:</hi> and every Law is voyd, as ſoon as made, that is contrary to this Law. And hence it is, that we are commanded to obey Prin<g ref="char:EOLhyphen"/>ces
+<pb n="52" facs="tcp:40718:28"/>
+                  <note n="d" place="margin">1. S. Pet. 2.13.</note> 
+                  <hi>for the Lords ſake,</hi>
+                  <note n="e" place="margin">Ro. 13.5.</note> 
+                  <hi>for Conſcience ſake,</hi> and
+<note n="f" place="margin">Ib. v. 2.</note> 
+                  <hi>upon paine of damnation.</hi>
+               </p>
+               <p>Q. <hi>Why is God ſo carefull of</hi> Kings?</p>
+               <p>
+                  <hi>A.</hi> 1. Becauſe
+<note n="g" place="margin">2. Chron. 9.8.</note> they are his Subſti<g ref="char:EOLhyphen"/>tutes, and repreſent his Maieſtie. 2. Be<g ref="char:EOLhyphen"/>cauſe
+<note n="h" place="margin">Lamen. 4.20.</note> they are <hi>Gods Anointed.</hi> 3. Be<g ref="char:EOLhyphen"/>cauſe
+<note n="i" place="margin">1. S Pet. 2.14.</note> in diſpoſing Favours, and diſ<g ref="char:EOLhyphen"/>penſing Iuſtice, they cannot but draw much envy upon themſelves. 4. Becauſe
+<note n="k" place="margin">2. Sam. 18.3.</note> the King is <hi>worth ten thouſand of</hi> the beſt of <hi>us.</hi> And yet when the people ſpake this of <hi>David,</hi> there were brave men among them, <hi>viz.</hi>
+                  <note n="l" place="margin">Ib. v. 2.</note> 
+                  <hi>Ittai</hi> the <hi>Git<g ref="char:EOLhyphen"/>tite,</hi> and <hi>Joab,</hi> and <hi>Abiſhai,</hi>
+                  <note n="m" place="margin">1. Chro. 2.16.</note> 
+                  <hi>Davids</hi> owne Siſtars ſonnes; men of great birth and power, eminent for vertue, and
+<note n="n" place="margin">2. Sam. 18.2.</note> the chiefe Commanders of his hoſt.</p>
+               <p>Q. <hi>How ought wee to</hi> honour our Parents?</p>
+               <p>
+                  <hi>A.</hi> By loving, reverencing, and ſuc<g ref="char:EOLhyphen"/>couring them in their neceſſities, ſince under God they are the Authors of our being, and breeding, and preſervation. Not becauſe we have need of them, but becauſe they are our Parents. <hi>Ho<g ref="char:EOLhyphen"/>nour</hi> THY FATHER, not becauſe he is great, or rich; but becauſe he is <hi>thine.</hi>
+                  <pb n="53" facs="tcp:40718:28"/>Thus
+<note n="o" place="margin">1. Kings. 2.19.</note> 
+                  <hi>Solomon,</hi> though a mighty Mo<g ref="char:EOLhyphen"/>narch, 1. roſe up to meet <hi>Bathſheba his mother,</hi> and 2. <hi>bowed himſelfe unto her.</hi> and 3. <hi>cauſed a ſeat to be ſet for her,</hi> and 4. <hi>placed her on his right hand.</hi> S<hi rend="sup">t</hi> 
+                  <hi>Pauls</hi> advice therefore is, that
+<note n="p" place="margin">1. Tim. 5.4.</note> 
+                  <hi>we learne to ſhew piety at home, and to requite our Parents:</hi> and his charge is, that
+<note n="q" place="margin">Col. 3.20.</note> 
+                  <hi>Chil<g ref="char:EOLhyphen"/>dren obey their Parents in all things.</hi> And reaſon good,
+<note n="r" place="margin">Ib. &amp; 1. Tim. 5.4.</note> 
+                  <hi>for theſe duties are well pleaſing unto the Lord.</hi>
+               </p>
+               <p>Q. <hi>How ought wee to</hi> honour our Maſters?</p>
+               <p>A.
+<note n="ſ" place="margin">Col. 3.22.</note> 
+                  <hi>By obeying them in all things; not with eye-ſervice, as men pleaſers, but in ſingleneſſe of heart, fearing God.</hi>
+               </p>
+               <p>Q. <hi>The Scriptures are very mindfull of the duty of Children and Servants, but are they ſilent of Parents and Maſters?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They are not. Of Parents and Maſters in generall they ſay thus;
+<note n="t" place="margin">1. Tim. 5.8.</note> 
+                  <hi>He that provides not for his owne, is worſe then an Infidell.</hi> And in particular to each of them thus:
+<note n="u" place="margin">Eph. 6.4.</note> 
+                  <hi>Yee</hi> Fathers, <hi>pro<g ref="char:EOLhyphen"/>voke not your Children to wrath; but bring them up in the nourture and admo<g ref="char:EOLhyphen"/>nition of the Lord.</hi>
+                  <note n="*" place="margin">Col. 4.1.</note> Yee Maſters, <hi>give
+<pb n="54" facs="tcp:40718:29"/>unto your Servants, that which is juſt and equall, knowing that yee alſo have a Maſter in Heaven.</hi>
+               </p>
+               <p>Q. <hi>What ſaith the Scripture concer<g ref="char:EOLhyphen"/>ning</hi> ſpirituall Paſtors and Maſters?</p>
+               <p>
+                  <hi>A.</hi> It calls them
+<note n="x" place="margin">S. Mat. 5.13.</note> 
+                  <hi>the Salt of the earth,</hi>
+                  <note n="y" place="margin">Ib. v. 14.</note> 
+                  <hi>the light of the world;</hi>
+                  <note n="z" place="margin">Mal. 2.7.</note> 
+                  <hi>the An<g ref="char:EOLhyphen"/>gels of God;</hi>
+                  <note n="a" place="margin">1. Cor. 4.1.</note> 
+                  <hi>the Miniſters of Chriſt, and Stewards of the myſteries of God;</hi>
+                  <note n="b" place="margin">Ib. v. 15.</note> 
+                  <hi>Fa<g ref="char:EOLhyphen"/>thers in Chriſt;</hi> and
+<note n="c" place="margin">1. Cor. 3.9.</note> 
+                  <hi>Labourers toge<g ref="char:EOLhyphen"/>ther with God.</hi> And
+<note n="d" place="margin">Ib.</note> the People are <hi>Gods husbandry,</hi> whereon they are to ſpend their labour.</p>
+               <p>Q. <hi>What requitall are wee to make them for theſe their paines?</hi>
+               </p>
+               <p>A.
+<note n="e" place="margin">Gal. 6.6.</note> 
+                  <hi>Let him that is taught in the word, miniſter unto him that teacheth, in all good things.</hi> For
+<note n="f" place="margin">1. Cor. 9.13.</note> AS THEY THAT WAIT VPON THE AL<g ref="char:EOLhyphen"/>TAR, <hi>are partakers with the Altar;</hi> EVEN SO HATH THE LORD <hi>alſo</hi> ORDEINED, <hi>that they which preach the Gospell, ſhould live of the Gospell.</hi> Beſides, Saint <hi>Paul</hi> commands us to
+<note n="g" place="margin">Heb. 13.7.</note> 
+                  <hi>Remember our guides, who have ſpoken unto us the word of God, whoſe faith</hi> he enjoynes us to <hi>follow:</hi> as alſo
+<pb n="55" facs="tcp:40718:29"/>to
+<note n="h" place="margin">Ib. v. 17.</note> 
+                  <hi>Obey them, and ſubmit our ſelves unto them, for they watch for our ſoules.</hi> And againe;
+<note n="i" place="margin">1. Tim. 5.17.</note> 
+                  <hi>Let thoſe Presbyters,</hi> or Elders, <hi>that rule well, be counted worthy of double honour; especially they, who labour in the word and doctrine.</hi>
+               </p>
+               <p>Q. <hi>What ſaith the Scripture general<g ref="char:EOLhyphen"/>ly of</hi> our betters?</p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="k" place="margin">Levit. 19.32.</note> We muſt reverence them, and <hi>riſe up to the hoarie headed.</hi>
+                  <note n="l" place="margin">1. Tim. 5.1, 2.</note> We muſt <hi>intreat the elder men as Fathers, the el<g ref="char:EOLhyphen"/>der Women as Mothers;</hi> and
+<note n="m" place="margin">Ib. v. 3.</note> 
+                  <hi>Honour Widdowes, that are Widdowes indeed.</hi> We have <hi>Moſes</hi> for an example,
+<note n="n" place="margin">Ex. 18.7.</note> who <hi>did obeyſance to Jethro</hi> his wives Fa<g ref="char:EOLhyphen"/>ther.</p>
+               <p>Q. <hi>How comes it to paſſe, that</hi> Fa<g ref="char:EOLhyphen"/>ther <hi>and</hi> Mother <hi>are named, but not the</hi> King, <hi>nor any of the reſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe in the <hi>Father</hi> and <hi>Mo<g ref="char:EOLhyphen"/>ther</hi> i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 1. Age, 2. Place, and 3. Wiſ<g ref="char:EOLhyphen"/>dome to inſtruct, and 4. Power to com<g ref="char:EOLhyphen"/>mand and controule. In them God at firſt ſetled all that power, which ſince is derived from them to our Gover<g ref="char:EOLhyphen"/>nours, according to their ſeverall places and degrees.</p>
+               <pb n="56" facs="tcp:40718:30"/>
+               <p>Q. <hi>Which is the ſixth Commande<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>A. Thou ſhalt doe no murder.</hi> Where<g ref="char:EOLhyphen"/>in not only actuall murder, but the re<g ref="char:EOLhyphen"/>ſolution or deſire to doe it, is condem<g ref="char:EOLhyphen"/>ned. Yea all cauſeleſſe and unbrideled anger is forbidden: for our Saviour ſaith, that
+<note n="o" place="margin">S Mat. 5.22.</note> 
+                  <hi>Whoſoever is angry with his bro<g ref="char:EOLhyphen"/>ther without cauſe, ſhall be in danger of judgement.</hi> And S. <hi>John,</hi>
+                  <note n="p" place="margin">1. S Joh. 3, 15.</note> 
+                  <hi>Whoſoever hateth his brother is a Murderer.</hi> The unjuſt judge alſo is in the ſame predica<g ref="char:EOLhyphen"/>ment; for
+<note n="q" place="margin">Deut. 27.25.</note> 
+                  <hi>Curſed is he that takes a re<g ref="char:EOLhyphen"/>ward,</hi> or bribe, <hi>to ſlay an innocent Per<g ref="char:EOLhyphen"/>ſon.</hi>
+               </p>
+               <p>Q. <hi>The ſeventh Commandement?</hi>
+               </p>
+               <p>
+                  <hi>A. Thou ſhalt not commit adultery.</hi> In which words not only the act, but all inordinate affections and deſires, or any thing tending thereto, is forbidden. For S. <hi>Paul</hi> forbids
+<note n="r" place="margin">Rom. 13.13.</note> 
+                  <hi>Chambering and Wantonneſſe.</hi> And our Saviour profeſſ<g ref="char:EOLhyphen"/>eth, that
+<note n="ſ" place="margin">S. Mat. 5.28.</note> 
+                  <hi>whoſoever looketh on a Woman to lust after her, hath committed adulte<g ref="char:EOLhyphen"/>ry with her already in his heart.</hi>
+               </p>
+               <p>Q. <hi>The eight Commandement?</hi>
+               </p>
+               <p>
+                  <hi>A. Thou ſhalt not ſteale</hi> wherein not
+<pb n="57" facs="tcp:40718:30"/>only theft, but
+<note n="t" place="margin">Lev. 25.39.46.</note> 
+                  <hi>oppreſſion,</hi>
+                  <note n="u" place="margin">1. Cor. 6.10.</note> 
+                  <hi>extortion,</hi> and
+<note n="*" place="margin">1 Theſſ. 4.6.</note> 
+                  <hi>couſenage</hi> are forbidden. And to this commandement, I conceive, be<g ref="char:EOLhyphen"/>longs that curſe, <hi>Deut.</hi> 27.17. <hi>Curſed is he, that removeth away the marke of his neighbours lands,</hi> either by Meere<g ref="char:EOLhyphen"/>ſtones, Evidences, Records, or the like; for this is <hi>couſenage</hi> at the leaſt.</p>
+               <p>Q. <hi>The ninth Commandement?</hi>
+               </p>
+               <p>
+                  <hi>A. Thou ſhalt not beare falſe witneſſe againſt thy neighbour.</hi> In judgement we may not, without queſtion. Indeed in our ordinary communication it is dan<g ref="char:EOLhyphen"/>gerous for any man to ſcandalize, or ſlaunder his neighbour. They that doe ſo, ſhall have no place in the Kingdom of God. 1. <hi>Cor.</hi> 6.10. Neither may we <hi>lye;</hi> ſince
+<note n="x" place="margin">Pſal. 5.6.</note> the Lord will deſtroy him, that doth ſo. To this command belong thoſe two imprecations;
+<note n="y" place="margin">Deut. 27.19.</note> 
+                  <hi>Curſed is he that letteth in judgement the right of the stranger, of the Fatherleſſe and Widow.</hi> And
+<note n="z" place="margin">Ib. v. 24.</note> 
+                  <hi>Curſed is he, that ſmiteth his neighbour ſecretly.</hi>
+               </p>
+               <p>Q. <hi>Who is</hi> my Neighbour?</p>
+               <p>
+                  <hi>A.</hi> Not only thoſe, that are of our Kindred, or ſuch as are neere us by ac<g ref="char:EOLhyphen"/>quaintance,
+<pb n="58" facs="tcp:40718:31"/>or habitation, or Country: but even thoſe, that are of another Na<g ref="char:EOLhyphen"/>tion, and Religion: as our Saviour ma<g ref="char:EOLhyphen"/>nifeſts in his Parable of the <hi>Jew</hi> and <hi>Sa<g ref="char:EOLhyphen"/>maritane.</hi> S. <hi>Luc.</hi> 10.30. <hi>&amp;c.</hi>
+               </p>
+               <p>Q. <hi>We are now come to the laſt: tell me that?</hi>
+               </p>
+               <p>
+                  <hi>A. Thou ſhalt not covet thy neigh<g ref="char:EOLhyphen"/>bours houſe, &amp;c.</hi> This laſt takes away all evaſion from thoſe, who conceive only actuall adultery, and actuall theft to be ſinne. For if ſinne be a breach of Gods Law; then is it ſinne to <hi>covet,</hi> or luſt af<g ref="char:EOLhyphen"/>ter that, which is none of mine. Thus this precept teacheth us to reſiſt all e<g ref="char:EOLhyphen"/>vill motions, and to root out all luſts and covetous deſires, that ſo they may never break forth into Rebellion againſt God, and bring the ſecond death upon us.</p>
+               <p>Q. <hi>Art thou able to keep theſe Cons<g ref="char:EOLhyphen"/>mandements?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Of my ſelfe I am not, but
+<note n="a" place="margin">Phil. 4.23.</note> 
+                  <hi>I can doe all things in God that ſtrengthneth me.</hi> We are taught therefore at the end of each Commandement, to call upon the Lord by Prayer, <hi>Lord have mercy
+<pb n="59" facs="tcp:40718:31"/>upon us, and encline our hearts to keep this Law.</hi> And after the laſt Comman<g ref="char:EOLhyphen"/>dement, <hi>Lord have mercy upon us, and write all thoſe thy Lawes in our hearts, we beſeech thee.</hi> And I am taught,
+<note n="b" place="margin">C<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ech. in Com<g ref="char:EOLhyphen"/>mon Pray<g ref="char:EOLhyphen"/>er Book.</note> 
+                  <hi>at all times to call for his speciall grace by diligent Prayer,</hi> that I may walke in his Commandements.</p>
+               <p>Q. <hi>What Prayer doeſt thou chiefly uſe?</hi>
+               </p>
+               <p>
+                  <hi>A. The Lords Prayer.</hi>
+               </p>
+               <p>Q. <hi>Why is it called ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe our Lord <hi>Jeſus Chriſt</hi> made it, and commanded his Diſciples to make uſe of it, in theſe words,
+<note n="c" place="margin">S. Luc. 11.2.</note> 
+                  <hi>When yee pray, ſay,</hi> OVR FATHER <hi>&amp;c.</hi> Our Church therefore <hi>When,</hi> as of<g ref="char:EOLhyphen"/>ten as <hi>we pray</hi> in <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>blique, commands to uſe this prayer. And we do ſo
+<note n="d" place="margin">Praemiſſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> legitimâ &amp; ordina<g ref="char:EOLhyphen"/>riâ oratione quaſi fun<g ref="char:EOLhyphen"/>damento, acciderai<g ref="char:EOLhyphen"/>um i<gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> eſt de fiderio<g ref="char:EOLhyphen"/>rum Tes<g ref="char:EOLhyphen"/>tul. de D<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>al. <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> in the <hi>beginning,</hi> of our firſt and ſecond Service; that ſo <hi>laying this for a founda<g ref="char:EOLhyphen"/>tion, we may juſtly proceed to our enſuing requeſts.</hi>
+               </p>
+               <p>Q. <hi>Why ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. In obedience to our Saviours injunction. 2. Becauſe it is ſo abſolute a Prayer, that it comprehends breifly,
+<pb n="60" facs="tcp:40718:32"/>what we may or ought to pray for. 3. Becauſe,
+<note n="e" place="margin">
+                     <hi>Hooker. Eccleſ Pol l</hi> 5. §. 35.</note> 
+                  <hi>it fully perfecteth whatſo<g ref="char:EOLhyphen"/>ever may be defective in the reſt.</hi> And 4. It is obſerved, that
+<note n="f" place="margin">Ib.</note> 
+                  <hi>Tertullian</hi> and S. <hi>Auſtine</hi> terme it <hi>Orationem legiti<g ref="char:EOLhyphen"/>mam, the prayer, which Chriſt's owne Law hath tyed his Church to uſe in the ſame preſcript form of words, wherewith he himſelfe did deliver it.</hi>
+               </p>
+               <p>Beſides, it is called
+<note n="g" place="margin">
+                     <hi>Tertul de Orat. c.</hi> 9.</note> 
+                  <hi>the ordinary,</hi> or uſuall <hi>prayer,</hi> becauſe it is uſed in all the Churches of the Saints. And
+<note n="*" place="margin">The <hi>Lords pray<g ref="char:EOLunhyphen"/>er</hi> is called <hi>quotidiana oratio fide lium Aug-Enthirid. c.</hi> 71.</note> 
+                  <hi>our dayly prayer,</hi> becauſe Chriſt hath taught us to uſe it every day, by commanding us to pray for <hi>our dayly Bread this day:</hi> that ſo praying but for <hi>this day,</hi> we might be bound to make uſe of this prayer <hi>every day.</hi>
+               </p>
+               <p>Q. <hi>Repeat the whole Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A. Our Father which art in Heaven, &amp;c.</hi> This Prayer conſiſts of a Preface,
+<note n="h" place="margin">
+                     <hi>Hooker Eccleſ. Pol. l.</hi> 5. §. 35. <hi>Septem pe<g ref="char:EOLhyphen"/>titiones continere Dominica videtur o<g ref="char:EOLhyphen"/>ratio. Aug. Enchirid. c.</hi> 115. <hi>&amp; de Ser dom. in Monte. l.</hi> 2.</note> ſeven Petitions, and the reaſon why we begge theſe things at his hands.</p>
+               <p>Q. <hi>Which call you the Preface?</hi>
+               </p>
+               <p>
+                  <hi>A. Our Father which art in Heaven:</hi> Herein we manifeſt, whom we pray to; <hi>viz.</hi> to that holy, bleſſed, and glorious
+<pb n="61" facs="tcp:40718:32"/>Trinity, the Father, the Son and the ho<g ref="char:EOLhyphen"/>ly Ghoſt. As theſe three Perſons are but <hi>one God,</hi> and <hi>one Lord,</hi> ſo they are in re<g ref="char:EOLhyphen"/>ſpect of us, but <hi>one Father:</hi> each perſon hath an equall intereſt in our Creation, preſervation, and Regeneration. Hence is it, that as we are created by the Fa<g ref="char:EOLhyphen"/>ther, the Son, and the Holy Ghoſt, ſo are we Baptiſed in the Name of the Fa<g ref="char:EOLhyphen"/>ther, the Son, and the Holy Ghoſt. As we are Baptiſed, ſo we beleeve, and as we beleeve, ſo we pray; in whom we beleeve, to them we pray.</p>
+               <p>Q. <hi>Is not God every where, that we ſay,</hi> which art in Heaven?</p>
+               <p>
+                  <hi>A.</hi> Every where he is without que<g ref="char:EOLhyphen"/>ſtion, by his <hi>Eſſence;</hi> ſince
+<note n="i" place="margin">Act. 17.28.</note> 
+                  <hi>In him we live, we moove, and have our being:</hi> but in the ſoules of the faithfull he is by his <hi>Grace,</hi> and in <hi>Heaven</hi> by his <hi>Glory.</hi> Hence is the
+<note n="k" place="margin">Iſ. 66.1.</note> 
+                  <hi>earth</hi> called his <hi>Footſtool,</hi> and <hi>Heaven</hi> his <hi>Throne.</hi> We confine him not to <hi>Heaven,</hi> but we name <hi>Heaven,</hi> as the place where his Glory is moſt emi<g ref="char:EOLhyphen"/>nent, where our Saviour is ſaid to ſit at his right hand, the Angels to attend him and the ſoules of the Saints departed,
+<pb n="62" facs="tcp:40718:33"/>have the fruition of Ioy and Glo<g ref="char:EOLhyphen"/>rie.</p>
+               <p>Q. <hi>Why begin we our Prayers ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. To put us in mind, that our Pedegree is from <hi>Heaven.</hi> 2. That we may take care to behave our ſelves as the Children of ſuch a <hi>Father,</hi> And 3. That the inheritance we hope for, is in <hi>Heaven.</hi> We are not therefore to ſet our minds upon earthly, but heavenly things.</p>
+               <p>Q. <hi>Who may pray thus?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> None but thoſe that are Baptized. In the primitive Church
+<note n="l" place="margin">
+                     <hi>Quomodo dicunt, Pa<g ref="char:EOLhyphen"/>ter noſter, qui nondu<g ref="char:cmbAbbrStroke">̄</g> nati ſunt (ſciticet per Baptiſ<g ref="char:EOLhyphen"/>mu<g ref="char:cmbAbbrStroke">̄</g>?) Aug. de Symbolo ad Cate<g ref="char:EOLhyphen"/>chum. l.</hi> 1. <hi>c.</hi> 6. <hi>&amp; quinquag. homil.</hi> 42. <hi>Conſule Gab. Al<g ref="char:EOLhyphen"/>vaspin Ob<g ref="char:EOLhyphen"/>ſervat. l.</hi> 1. <hi>c.</hi> 19.</note> the <hi>Catechu<g ref="char:EOLhyphen"/>meni,</hi> ſuch as were prepared for Bap<g ref="char:EOLhyphen"/>tiſme, learned it for an Inſtruction, or preparation; but they might not uſe it as a prayer, till they were Baptized. Immediatly after Baptiſme they did, and ſo do we.</p>
+               <p>The Heathen cannot ſay <hi>Our Father;</hi> Our Creator, Our Lord they may. The <hi>Jewes,</hi> as <hi>Jewes,</hi> were never taught to ſay, <hi>Our Father:</hi> this prayer is peculiar to Chriſtians; <hi>Our Father</hi> he is by grace, and we his ſonnes by the ſame grace. God make us ſonnes in glory.</p>
+               <pb n="63" facs="tcp:40718:33"/>
+               <p>Q. <hi>Which is the first Petition?</hi>
+               </p>
+               <p>
+                  <hi>A. Hallowed be thy name:</hi> wherein we deſire not, that his <hi>Name</hi> may be made <hi>Holy:</hi> we know
+<note n="m" place="margin">Pſ. 99.3.</note> it is ſo, and it cannot be otherwiſe. But our prayer is, that his <hi>Name,</hi> and his word, may be uſed and mentioned by us holily; that in all our actions we may honour <hi>Our Fa<g ref="char:EOLhyphen"/>ther,</hi> and the ſtocke we come off, and that we may ever ſeek his honour and glory, and not our owne. That as we beare his <hi>Name,</hi> ſo we may behave our ſelves as beſeemes his <hi>Name,</hi> and good Chriſtians; not only by worſhiping him at the Church, but by our dayly and hourely converſation in all places.</p>
+               <p>Q. <hi>The ſecond Petition.</hi>
+               </p>
+               <p>
+                  <hi>A. Thy Kingdome come:</hi> his <hi>King<g ref="char:EOLhyphen"/>dome</hi> of grace, and his <hi>Kingdome</hi> of glo<g ref="char:EOLhyphen"/>ry. That his <hi>Kingdome of grace,</hi> which is his Church, may ſo ſpread over the face of the whole earth, that his word may be preached, and beleeved, and obeyed in all Nations whatſoever. That his word may beare ſuch ſway in our hearts, that the Kingdome of ſinne and <hi>Satan</hi> being vanquiſhed, we may be<g ref="char:EOLhyphen"/>have
+<pb n="64" facs="tcp:40718:34"/>our ſelves as the ſincere Subjects of ſuch a King, that ſo his <hi>Kingdome of glory</hi> may be repleniſhed in due ſea<g ref="char:EOLhyphen"/>ſon.</p>
+               <p>Q. <hi>The third Petition.</hi>
+               </p>
+               <p>
+                  <hi>A. Thy will be done in earth, as it is in Heaven.</hi> That with our Saviour each Chriſtians prayer may be,
+<note n="n" place="margin">S. Luc. 22.42.</note> 
+                  <hi>Not my will, but thy will be done;</hi> not only in Peace, plenty, and proſperity, but in Warre, in wants, and perſecution. His <hi>revealed will</hi> is the rule, whereby all our actions muſt be guided. Our pray<g ref="char:EOLhyphen"/>er is therefore, that we his Servants may be diligent to performe this <hi>his will</hi> on earth, as the Angells are diligent to doe it in heaven. That we may liſten to him, and be obſequious to <hi>his will,</hi> as they are. That there may not be any diſſenſion between our earthly and hea<g ref="char:EOLhyphen"/>venly parts; but that the fleſh being ſubject to the ſpirit, both may ſincerely ſubmit to <hi>his will,</hi> and doe it to the ut<g ref="char:EOLhyphen"/>moſt of their power. This is the direct way to his Kingdome of glory.</p>
+               <p>Q. <hi>The fourth Petition.</hi>
+               </p>
+               <p>
+                  <hi>A. Give us this day our dayly bread.</hi>
+                  <pb n="65" facs="tcp:40718:34"/>In this petition
+<note n="o" place="margin">Catech. in Com<g ref="char:EOLhyphen"/>mon pray<g ref="char:EOLhyphen"/>er Book.</note> we <hi>pray unto God, that he will ſend us all things, that be needfull both for our ſoules and bodies.</hi>
+                  <note n="p" place="margin">
+                     <hi>Hieron. in</hi> Mat. 6.</note> This (as the learned obſerve) is intimated unto us, by this word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; which ſignifies not only <hi>dayly,</hi> but <hi>ſuperſub<g ref="char:EOLhyphen"/>ſtantiall;</hi> that
+<note n="q" place="margin">
+                     <hi>Spirita<g ref="char:EOLhyphen"/>liter potiùs intelliga<g ref="char:EOLhyphen"/>mus. Chri<g ref="char:EOLhyphen"/>ſtus enim panis noſter eſt, &amp;c.</hi> Tertul. <hi>de Orat. c.</hi> 6.</note> ſo we might not only re<g ref="char:EOLhyphen"/>member our bodily food, but that we might have a ſpeciall eye upon the food of our ſoules, that bread of life, the bleſ<g ref="char:EOLhyphen"/>ſed Sacrament of <hi>Chriſts</hi> body &amp; bloud, which was
+<note n="r" place="margin">
+                     <hi>Euchari<g ref="char:EOLhyphen"/>ſtiam, quo<g ref="char:EOLhyphen"/>tidiè ad cibum ſa<g ref="char:EOLhyphen"/>lutis acci<g ref="char:EOLhyphen"/>pimus. Cypr. de Orat. do<g ref="char:EOLhyphen"/>min. n.</hi> 48. <hi>Aug. de Ser. Dom. in Monte. l.</hi> 2.</note> 
+                  <hi>dayly received</hi> in the pri<g ref="char:EOLhyphen"/>mitive Church, by the firſt Chriſtians.</p>
+               <p>Q. <hi>The fifth Petition.</hi>
+               </p>
+               <p>
+                  <hi>A. And forgive us our trespaſſes, as we forgive them that trespaſſe against us.</hi> Herein we make confeſſion, that we have <hi>trespaſſed</hi> againſt God and his word; we entreat him therefore, a<g ref="char:EOLhyphen"/>gainſt whom we ſinne, to forgive us our ſinnes.</p>
+               <p>Q. <hi>Can God only forgive ſinne?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> God only <hi>powerfully,</hi> but the Prieſt <hi>miniſterially.</hi> God hath <hi>power</hi> in himſelfe and of himſelfe to forgive ſinnes: but the Prieſt hath only a <hi>dele<g ref="char:EOLhyphen"/>gated power,</hi> neither in, nor of himſelfe,
+<pb n="66" facs="tcp:40718:35"/>but from God, who gave this Commiſ<g ref="char:EOLhyphen"/>ſion to his Apoſtles, and in them to their ſucceſſors;
+<note n="ſ" place="margin">S. John. 20.23.</note> 
+                  <hi>Receive</hi> (ſaith he) <hi>the Holy Ghoſt; whoſoever ſinnes ye forgive, they are forgiven,</hi> &amp;c. <hi>Chriſt</hi> gave them the Holy Ghoſt, that by his power they might remit, and retaine ſinnes.</p>
+               <p>Q. <hi>Doe Prieſts forgive ſinnes</hi> abſo<g ref="char:EOLhyphen"/>lutely?</p>
+               <p>
+                  <hi>A.</hi> No; but conditionally, as God doth; if the perſon confeſſing
+<note n="t" place="margin">Abſoluti<g ref="char:EOLhyphen"/>on in the Common Prayer-Book.</note> 
+                  <hi>truly repent, and unfainedly beleeve the holy Gospell.</hi> God, you ſee, forgives but up<g ref="char:EOLhyphen"/>on condition; we beg pardon but upon condition, that God would deale with us, as we deale with our Neighbours; that he would <hi>forgive us, as we forgive them, that trespaſſe againſt us.</hi>
+               </p>
+               <p>Q. <hi>Muſt we then expect no pardon, but upon this condition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> We may not, our Saviour ſaith ſo;
+<note n="u" place="margin">S. Mat. 18.35.</note> 
+                  <hi>unleſſe yee</hi> FORGIVE ONE ANOTHER FROM THE HEART, <hi>your heavenly Father will not forgive you.</hi> That is,
+<note n="*" place="margin">
+                     <hi>Aug. En<g ref="char:EOLhyphen"/>chirid. c.</hi> 73.74.</note> unleſſe ye be ready to forgive your treſpaſſers, when they crave pardon of you, look for no pardon
+<pb n="67" facs="tcp:40718:35"/>at my Fathers hands, when ye beg for<g ref="char:EOLhyphen"/>giveneſſe of him:
+<note n="x" place="margin">S. Luc. 6.38.</note> 
+                  <hi>For the ſame mea<g ref="char:EOLhyphen"/>ſure ye mere, it ſhall be meaſured to you againe.</hi>
+               </p>
+               <p>Q. <hi>The ſixth Petition.</hi>
+               </p>
+               <p>
+                  <hi>A. And iead us not into temptation.</hi>
+               </p>
+               <p>Q. <hi>Can God</hi> rempt us?</p>
+               <p>
+                  <hi>A.</hi> He cannot; the Scripture is plain.
+<note n="y" place="margin">S. James. 1.13.14.</note> 
+                  <hi>Let no man ſay, when he is temp<g ref="char:EOLhyphen"/>ted, I am tempted of God: for God can<g ref="char:EOLhyphen"/>not be tempted with evill,</hi> NEITHER TEMPTETH HE ANY MAN. <hi>But every man is tempted, when he is drawne away of his owne lust, and entiſed.</hi>
+               </p>
+               <p>Q. <hi>Cannot God be the author of ſinne?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He cannot: for
+<note n="z" place="margin">Pſ. 5.4.</note> 
+                  <hi>He hath no plea<g ref="char:EOLhyphen"/>ſure in wickedneſſe:</hi> but
+<note n="a" place="margin">Pſ. 11.6. <hi>Deus mali aliquid non poteſt velle. Aug. Ep.</hi> 180.</note> 
+                  <hi>the ungodly, and him, that delighteth in wickedneſſe, doth his ſoule abhorre.</hi> It is therefore
+<note n="b" place="margin">
+                     <hi>Illo ſacri<g ref="char:EOLhyphen"/>legio, quo ſtatuitur Deum eſſe mali autho<g ref="char:EOLhyphen"/>rem, mihi deteſtabili<g ref="char:EOLhyphen"/>us nihil oc<g ref="char:EOLhyphen"/>currit. Aug. de Ord. l.</hi> 2. <hi>c.</hi> 7.</note> accounted <hi>moſt deteſtable ſacriledge, to make God the author of ſinne.</hi>
+               </p>
+               <p>Q. <hi>What pray wee againſt in this Pe<g ref="char:EOLhyphen"/>tition?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Againſt Gods heavy wrath and cenſure; namely, that he would not puniſh one ſinne with another: For the
+<pb n="68" facs="tcp:40718:36"/>later ſinne is oft times a puniſhment of the former: as <hi>Judas</hi> his murthering himſelfe, was a puniſhment of his trea<g ref="char:EOLhyphen"/>ſon. We beſeech God therefore,
+<note n="c" place="margin">
+                     <hi>Et ne nos patiaris in<g ref="char:EOLhyphen"/>duci,</hi> &amp;c. <hi>Cypr. de Orat, Do<g ref="char:EOLhyphen"/>min. n.</hi> 69. <hi>Ne nos in<g ref="char:EOLhyphen"/>ducas,</hi> &amp;c. <hi>id est, Ne patiaris nos induci Ter<g ref="char:EOLhyphen"/>tul. de Orat. c.</hi> 8. <hi>Aug. de Ser. Dom. in Monre. l.</hi> 2.</note> as our Forefathers had wont to ſpeake, <hi>not to ſuffer us to be led into temptation,</hi> much leſſe to be overcome thereby. Since the withdrawing of his grace, is, as it were, a <hi>leading,</hi> or letting <hi>us into temptation:</hi> ſo prone we are to ſinne, if God withhold us not.</p>
+               <p>Q. <hi>Which is the laſt Petition?</hi>
+               </p>
+               <p>
+                  <hi>A. But deliver us from evill.</hi> In the two former Petitions we entreated for pardon for our former ſinnes, and to be preſerved from future ſinnes: but here we beſeech God to <hi>deliver us from the evill</hi> of puniſhment, both in this life, and in the life to come; as alſo from that fierce executioner of Gods vengeance the Divell.</p>
+               <p>Q. <hi>Why doe we begge all this at Gods hands?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I. Becauſe he is <hi>Our Father:</hi> moſt fit therefore, that we repaire to him for help and ſuccour. II. Becauſe he is all-ſufficient, <hi>Almighty:</hi> or, as it is added
+<pb n="69" facs="tcp:40718:36"/>in S<hi rend="sup">t</hi> 
+                  <hi>Matthew,</hi>
+                  <note n="d" place="margin">S. Mat. 6.13.</note> 
+                  <hi>for thine is the King<g ref="char:EOLhyphen"/>dome, power, and glory, for ever and ever.</hi> His <hi>Kingdome</hi> is unlimited, his <hi>power</hi> abſolute; God give us grace to ſeek his <hi>glory;</hi> For he will be <hi>glorified</hi> either by us, or upon us; either by us, in the per<g ref="char:EOLhyphen"/>formance of his Commandements; or upon us, in the demonſtration of his juſtice.</p>
+               <p>Q. <hi>Why adde we,</hi> Amen?</p>
+               <p>
+                  <hi>A.</hi> Becauſe we deſire, all this may be done; for ſo this word ſignifies.
+<note n="e" place="margin">
+                     <hi>Sciendum eſt, Amen &amp; Halle<g ref="char:EOLhyphen"/>luja, quae nec Latino, nec Barba<g ref="char:EOLhyphen"/>ro licet in ſuam lin<g ref="char:EOLhyphen"/>gua<g ref="char:cmbAbbrStroke">̄</g> tranſ<g ref="char:EOLhyphen"/>ſerre, He<g ref="char:EOLhyphen"/>braeo cun<g ref="char:EOLhyphen"/>ctas gentes vocabulo decantare. Aug. Ep.</hi> 178.</note> It is an Hebrew word, which we tranſlate not into any language, but preſerve it, as our Saviour gave it. Wee end our Prayers and Creed with it, to manifeſt the aſſent and conſent of all Chriſtians in matters of the higheſt moment.</p>
+               <p>Q. <hi>How ought we to behave our ſelves in Prayer?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> With all devotion and reverence inward and outward, <hi>meekly kneeling upon our knees.</hi>
+               </p>
+               <p>Q. <hi>Why muſt we</hi> kneele <hi>at our Pray<g ref="char:EOLhyphen"/>ers?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I. Becauſe it is a geſture beſt beſeeming humble Petitioners. II. It
+<pb n="70" facs="tcp:40718:37"/>
+                  <note n="f" place="margin">
+                     <hi>Proprium eſt órationis officiu<g ref="char:cmbAbbrStroke">̄</g>, Dei veneratio. Tertul. de Orat c.</hi> 1.</note> is a duty proper to Prayer. III. The Church our Mother commands us to kneele at Prayers. IV.
+<note n="g" place="margin">
+                     <hi>In oratio ne ex more ge<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ua flex<g ref="char:EOLhyphen"/>imus, ar<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> incubuimus terrae. Aug. de Civit. Dei. l.</hi> 22. <hi>c.</hi> 8.</note> It is agreeable to the cuſtome of the ancient Church. V. It is agreeable to the practice of our Saviour and his Apoſtles,
+<note n="h" place="margin">S. Mat. 26.39. S. Luc. 22.41. Act 7.60 <hi>c.</hi> 9. 40. <hi>c.</hi> 20.36.</note> who alwaies <hi>kneele,</hi> or fall flat upon the ground at their prayers. VI. It is Gods due; in the ſecond Commandement. And our Saviour ſaith,
+<note n="i" place="margin">S. Mat. 4.10.</note> 
+                  <hi>Thou ſhalt</hi> WORSHIP <hi>the Lord thy God.</hi> And
+<note n="k" place="margin">
+                     <hi>Vox ado<g ref="char:EOLhyphen"/>rare idem ſignificat. quod pro<g ref="char:EOLhyphen"/>ſternere ſe, iucurvare, a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>genicu<g ref="char:EOLhyphen"/>lari. Pet. Picherel. de Imag. p.</hi> 225.</note> to <hi>worſhip God,</hi> is to <hi>kneele downe,</hi> or <hi>fall downe</hi> before him. Theſe reaſons, I hope, will bring us all upon our knees.</p>
+               <p>Q. <hi>I pray God, they may. Thou haſt given me good ſatisfaction in the</hi> Creed, <hi>the</hi> ten Commandements, <hi>and the</hi> Lords Prayer: <hi>now tell me, how many</hi> Sacra<g ref="char:EOLhyphen"/>ments <hi>there be.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two only; inſtituted by our bleſſed Saviour as neceſſary for the ſal<g ref="char:EOLhyphen"/>vation of all men; to wit, 1. <hi>Baptiſme,</hi> and 2. the <hi>Lords Supper.</hi>
+               </p>
+               <p>Q. <hi>What meaneſt thou by this word</hi> Sacrament?</p>
+               <p>
+                  <hi>A. I mean an outward and viſible ſigne of an inward and ſpirituall grace gi<g ref="char:EOLhyphen"/>ven
+<pb n="71" facs="tcp:40718:37"/>unto us, ordained by Chriſt himſelfe as a meanes, whereby we receive the ſame, and a pledge to aſſure us thereof.</hi>
+               </p>
+               <p>Q. <hi>A little plainer if you can.</hi>
+               </p>
+               <p>Q. A <hi>Sacrament is an outward and viſible</hi> ſigne, or element, <hi>ordained by Chriſt</hi> to be <hi>given</hi> or beſtowed upon <hi>us, as a meanes,</hi> whereby we may <hi>receive an inward and spirituall grace.</hi> This he gives us as a <hi>pledge,</hi> to <hi>aſſure us,</hi> that as oft as we <hi>receive</hi> this Sacrament, or ele<g ref="char:EOLhyphen"/>ment, according to <hi>Chriſts</hi> ordinance, ſo oft <hi>we receive this grace,</hi> which is al<g ref="char:EOLhyphen"/>waies conveyed unto us by this <hi>Sacra<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>Q. <hi>How many parts are there in a Sacrament?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Two, the outward and the in<g ref="char:EOLhyphen"/>ward.</p>
+               <p>Q. <hi>What is the outward part?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> The <hi>matter</hi> and <hi>forme</hi> appointed and determined by <hi>Chriſt</hi> himſelfe.</p>
+               <p>Q. <hi>What meaneſt thou by the</hi> matter?</p>
+               <p>
+                  <hi>A.</hi> The element or creature, de<g ref="char:EOLhyphen"/>ſigned by <hi>Chriſt</hi> for this or that <hi>Sacra<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>Q. <hi>What meaneſt thou by the</hi> forme?</p>
+               <pb n="72" facs="tcp:40718:38"/>
+               <p>
+                  <hi>A.</hi> The words appropriated by <hi>Chriſt</hi> to this or that Sacrament.</p>
+               <p>Q. <hi>What is the element, or</hi> matter <hi>ap<g ref="char:EOLhyphen"/>propriated to</hi> Baptiſme?</p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="l" place="margin">S. John. 3.5.</note> 
+                  <hi>Water,</hi> the pure element of water, without art or mixture.</p>
+               <p>Q. What the <hi>forme,</hi> or words?</p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="m" place="margin">S. Mat. 28 19.</note> 
+                  <hi>I Baptize thee in the name of the Father, and of the Sonne, and of the Ho<g ref="char:EOLhyphen"/>ly Ghoſt.</hi>
+               </p>
+               <p>Q. <hi>May no Perſon be baptiſed with other</hi> matter <hi>or</hi> words?</p>
+               <p>
+                  <hi>A.</hi> No: for Chriſt, who is the au<g ref="char:EOLhyphen"/>thor of grace, diſpoſeth of his graces, and the meanes, whereby he convey<g ref="char:EOLhyphen"/>eth them unto us. And it is in the pow<g ref="char:EOLhyphen"/>er of no Perſon or Perſons, to alter theſe meanes, unleſſe it be alſo in his, or their power, to give grace at pleaſure.</p>
+               <p>Q. <hi>Theſe two then make this a per<g ref="char:EOLhyphen"/>fect Sacrament.</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They doe ſo, namely
+<note n="n" place="margin">Acceldat verbum ad elementum, &amp; fiet Sa<g ref="char:EOLhyphen"/>cramentum. Aug.</note> theſe words of <hi>Chriſt</hi> added to this element, or matter preſcribed by <hi>Chriſt.</hi>
+               </p>
+               <p>Q. <hi>What is the inward and spirituall grace in Baptiſme?</hi>
+               </p>
+               <p>
+                  <hi>A. A death unto ſinne, and a new
+<pb n="73" facs="tcp:40718:38"/>birth unto righteouſneſſe.</hi>
+                  <note n="o" place="margin">
+                     <hi>Qui bap<g ref="char:EOLhyphen"/>tizatur, aſ<g ref="char:EOLhyphen"/>cendit libe<g ref="char:EOLhyphen"/>ratus à ſer<g ref="char:EOLhyphen"/>vitute cor<g ref="char:EOLhyphen"/>ruptionis &amp; peccato, factus filius Dei, &amp; haeres ejus gratie, co<g ref="char:EOLhyphen"/>h<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>res au<g ref="char:EOLhyphen"/>tem Chriſti, indutus ip<g ref="char:EOLhyphen"/>ſum Chri<g ref="char:EOLhyphen"/>ſtum. Con<g ref="char:EOLhyphen"/>cil. Nic. Diatyp.</hi> 5.</note> 
+                  <hi>For being by nature borne in ſinne; and the children of wrath, we are hereby made the chil<g ref="char:EOLhyphen"/>dren of grace.</hi>
+               </p>
+               <p>Q. <hi>Thou conceiveſt then, that all ſinnes are forgiven us in</hi> Baptiſme.</p>
+               <p>
+                  <hi>A.</hi> I doe ſo; ſo that we hinder not this grace by infidelity or impenitence.</p>
+               <p>Q. <hi>Why are you of this mind?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. Becauſe I am taught by the <hi>Ni<g ref="char:EOLhyphen"/>cene Creed,</hi> to <hi>beleeve one Baptiſme for the remiſſion of ſinnes.</hi> 2. This Church hath reſolved it for
+<note n="p" place="margin">Rubricke immediatly before the Catechiſm</note> a <hi>knowne truth, that it is certain by Gods word, that Chil<g ref="char:EOLhyphen"/>dren being baptiſed, have all things neceſ<g ref="char:EOLhyphen"/>ſary for their ſalvation, and be undoub<g ref="char:EOLhyphen"/>tedly ſaved.</hi> 3. The Scripture aſſures us, that
+<note n="q" place="margin">1. S. Pet. 3.21.</note> 
+                  <hi>Baptiſme doth now ſave us, by the Reſurrection of Jeſus Chriſt;</hi> &amp; that
+<note n="r" place="margin">Eph. 5.26.</note> 
+                  <hi>we are ſaved with the waſhing of water by the Word.</hi> 4. <hi>That</hi>
+                  <note n="ſ" place="margin">Gal. 3.27</note> 
+                  <hi>as many of us, as have been baptiſed into Chriſt, have put on Chriſt:</hi> that is, as the <hi>Councell of Nice</hi> expounds it,
+<note n="t" place="margin">
+                     <hi>Concil. Nic. Dia<g ref="char:EOLhyphen"/>typ.</hi> 5.</note> 
+                  <hi>we deſcend foule and un<g ref="char:EOLhyphen"/>clean into the Laver of Regeneration; but we come forth unſpotted, and without ſinne.</hi>
+               </p>
+               <pb n="74" facs="tcp:40718:39"/>
+               <p>Q. <hi>What is required of perſons to be Baptiſed?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> 1. <hi>Repentance, whereby they forſake ſinne, and</hi> 2. <hi>Faith, whereby they ſtedfaſtly beleeve the promiſes of God made to them in that Sacrament.</hi>
+               </p>
+               <p>Q. <hi>Why then are Infants baptiſed, when by reaſon of their tender age they cannot perform them?</hi>
+               </p>
+               <p>
+                  <hi>A. Yes they doe perform them by their ſureties, who promiſe and vow them both in their names, which when they come to age, themſelves are bound to perform.</hi>
+               </p>
+               <p>Q. <hi>Is this agreeable to reaſon?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is ſo. It is no more then guar<g ref="char:EOLhyphen"/>dians do for their wards. When Wards are under age, their guardians under<g ref="char:EOLhyphen"/>take for them, what thoſe wards when they come to age, are bound to per<g ref="char:EOLhyphen"/>forme. Beſides, we ſinned in others words and actions; it may well there<g ref="char:EOLhyphen"/>fore ſtand with reaſon, that we be clen<g ref="char:EOLhyphen"/>ſed from this ſin, by other mens words and actions.</p>
+               <p>Q. Why was the Sacrament of the Lords Supper ordained?</p>
+               <p>
+                  <hi>A. For the continuall remembrance of
+<pb n="75" facs="tcp:40718:39"/>the ſacrifice of the death of Chriſt, and the benefits which we receive there<g ref="char:EOLhyphen"/>by.</hi>
+               </p>
+               <p>Q. <hi>What is the outward part, or ſigne of the Lords ſupper?</hi>
+               </p>
+               <p>
+                  <hi>A. Bread and Wine, which the Lord hath commanded to be received.</hi>
+               </p>
+               <p>Q. <hi>This the</hi> matter, <hi>which the forme?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="t" place="margin">S. Mat. 26.26. 1. Cor. 11.23. &amp;c.</note> 
+                  <hi>The Lord Ieſus in the ſame night, that he was betrayed, &amp;c.</hi>
+               </p>
+               <p>Q. What is the inward part or thing ſignified?</p>
+               <p>
+                  <hi>A. The Body and blood of Chriſt,</hi>
+                  <note n="u" place="margin">
+                     <hi>Concludo realiter<g ref="char:punc">▪</g> hoc eſt, verè nobis in coe<g ref="char:EOLhyphen"/>nâ dari Chriſti cor<g ref="char:EOLhyphen"/>pus, ut fit animis no<g ref="char:EOLhyphen"/>ſtris in ci<g ref="char:EOLhyphen"/>bum ſalu<g ref="char:EOLhyphen"/>tarem. Cal<g ref="char:EOLhyphen"/>vin, in</hi> 1. Cor. 11.24.</note> 
+                  <hi>which are veryly and indeed taken and received of the faithfull in the Lords Sup<g ref="char:EOLhyphen"/>per.</hi>
+               </p>
+               <p>Q. <hi>What body?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="*" place="margin">Chriſtus nobis offer<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> corpus ip ſum, in quo paſſus eſt, ac reſur<g ref="char:EOLhyphen"/>rexit. Cal<g ref="char:EOLhyphen"/>vin. Ib.</note> That body which was borne of the Virgin <hi>Mary,</hi> and ſuffer'd upon the Croſſe.</p>
+               <p>Q. <hi>Do we receive it after a Corporall manner?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No, but after a <hi>spirituall manner.</hi> That we receive it, we believe, but <hi>the manner we know not,</hi> we enquire not af<g ref="char:EOLhyphen"/>ter; no more then we enquire after the
+<pb n="76" facs="tcp:40718:40"/>manner, how Chriſts humanity was knit to his Deitie.</p>
+               <p>Q. <hi>Is the bread tranſubſtantiated into the Body of Chriſt?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is not,
+<note n="x" place="margin">1. Cor. 11.23.</note> Bread it is before con<g ref="char:EOLhyphen"/>ſecration;
+<note n="y" place="margin">Ib. v. 24.</note> bread at the time of Conſe<g ref="char:EOLhyphen"/>cration, and
+<note n="z" place="margin">Ib. v. 26, 27, 28.</note> bread after Conſecration: but it is
+<note n="a" place="margin">Ib. v. 24, 25. 29.</note> the body and blood of Chriſt, only after Conſecration.</p>
+               <p>Q. <hi>After what manner doe wee re<g ref="char:EOLhyphen"/>ceive the Body of Chriſt in this Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> By faith: as the food is Spirituall, ſo is the manner ſpirituall.</p>
+               <p>Q. <hi>What are the benefits, whereof we are partakers thereby?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi>
+                  <note n="b" place="margin">
+                     <hi>Intelligo ſubſtantiâ corporis paſci ani<g ref="char:EOLhyphen"/>mas no<g ref="char:EOLhyphen"/>ſtras, ut verè unum efficiamur cum eo. Calvin. in</hi> 1. Cor. 11.24.</note> 
+                  <hi>The ſtrengthning and refreſhing of our Soules, by the body and blood of Chriſt, as our bodies are by the Bread &amp; Wine.</hi> We are ſenſible of the one, let us beleeve the other. For as veryly as our faint and hungry Bodies are ſtrengthen<g ref="char:EOLhyphen"/>ed, and refreſhed, and comforted with bread and wine, ſo verily is every peni<g ref="char:EOLhyphen"/>tent and faithfull Soule ſtrengthened, and refreſhed, and comforted with the body and blood of <hi>Chriſt.</hi>
+               </p>
+               <pb n="77" facs="tcp:40718:40"/>
+               <p>Q. <hi>What is required of them, which come to the</hi> Lords Supper?</p>
+               <p>A. <hi>To examine themſelves, whether they repent them truly of their former ſinnes, ſtedfaſtly purpoſing to lead a new life: to have a lively faith in Gods mercy through Chriſt, with a thankfull remem<g ref="char:EOLhyphen"/>brance of his death, and be in charity with all men.</hi>
+               </p>
+               <p>Q. <hi>This for the inward preparation; what for the outward reverence?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> All outward and inward reve<g ref="char:EOLhyphen"/>rence is little enough, when we come to receive the price of Heaven and Earth. By ſome therefore it is called a <hi>dreadfull myſtery;</hi> becauſe he that right<g ref="char:EOLhyphen"/>ly conſiders of it, will not approch to this Table without dread and tremb<g ref="char:EOLhyphen"/>ling.</p>
+               <p>Q. <hi>Why ſo?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Becauſe there we receive this holy Sacrament either to our ſalvation, or damnation.
+<note n="c" place="margin">1. Cor. 11.29.</note> 
+                  <hi>If unworthily, we eate and drinke damnation to our ſelves.</hi> Whereas
+<note n="d" place="margin">Ib. v. 32.</note> 
+                  <hi>if we would judge our ſelves,</hi> we could not but ſee our owne unwor<g ref="char:EOLhyphen"/>thineſſe; and then we would certainly
+<pb n="78" facs="tcp:40718:41"/>endeavour to humble our ſelves, as we ought, both before and at our approch. Thus if we doe, <hi>we ſhall not be judged</hi> unworthy <hi>of the Lord;</hi> but receive it to the comfort and ſalvation of our ſoules.</p>
+               <p>Q. <hi>Is not inward reverence ſuffi<g ref="char:EOLhyphen"/>cient?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> He that hath commanded us at all times to
+<note n="e" place="margin">1. Cor. 6.20.</note> 
+                  <hi>glorifie God in our bodies, and in our ſpirits,</hi> will have us more ef<g ref="char:EOLhyphen"/>pecially at this time to <hi>glorifie</hi> him in both. Where both may be had, he will have both. The Church our Mother conceives <hi>kneeling,</hi> not only decent, but neceſſary at this time: ſhee therefore hath made this Injunction, that
+<note n="f" place="margin">Rubricke immediatly before the delivering.</note> 
+                  <hi>The Minister ſhall deliver the Communion in both kinds to the</hi> PEOPLE KNEE<g ref="char:EOLhyphen"/>LING. The people therefore are to <hi>kneele.</hi>
+               </p>
+               <p>Q. <hi>Is this agreeable to the uſage of the ancient Church?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is ſo: for S. <hi>Auſtine</hi> tells us, that
+<note n="g" place="margin">
+                     <hi>Nemo il<g ref="char:EOLhyphen"/>lam carnem manducat, niſi prius adoraverit. Aug. in</hi> Pſ. 98.</note> in his <hi>time no man received, but firſt he kneeled.</hi> And <hi>Chemnicius</hi> a learned Pro<g ref="char:EOLhyphen"/>teſtant ſpeaking of due reverence to be
+<pb n="79" facs="tcp:40718:41"/>uſed at this time, profeſſeth, that
+<note n="h" place="margin">
+                     <hi>Chemnic. Exam. Con<g ref="char:EOLhyphen"/>cii. Trid. part.</hi> 2. <hi>c.</hi> 5.</note> we ought to kneele; adding, that <hi>externall irreverence</hi> in this action <hi>is the token of a prophane mind.</hi>
+               </p>
+               <p>Q. <hi>Some abſtain for feare of Idolatry:</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> I ſee not, how there can be any ſuch danger. We worſhip not bread, but the God of Heaven: neither worſhip we God by the Bread; but by or with that bleſſed Bread and Wine we re<g ref="char:EOLhyphen"/>ceive the body and bloud of Chriſt,
+<note n="i" place="margin">The vvords at the delive<g ref="char:EOLhyphen"/>ring.</note> which <hi>preſerve us body and ſoul to eter<g ref="char:EOLhyphen"/>nall life.</hi> And can any man be too good to receive ſuch a bleſſing upon his knees?</p>
+               <p>Beſides, we acknowledge that <hi>Chriſt</hi> is preſent at this his ſupper, after a more ſpeciall and peculiar manner then at o<g ref="char:EOLhyphen"/>ther times.
+<note n="k" place="margin">
+                     <hi>Si haec verè &amp; ex animo cre<g ref="char:EOLhyphen"/>dimus, fieri nec potest, nec debet, quin fider Chriſtum in illa actione praeſentem veneretur &amp; adoret.</hi> Chemnic. Ib.</note> If this we beleeve truly and ſincerely, it cannot, it may not be, but <hi>faith will reverence and adore our Saviour</hi> preſent in this action.</p>
+               <p>Q. <hi>Is there then no danger in</hi> knee<g ref="char:EOLhyphen"/>ling?</p>
+               <p>
+                  <hi>A.</hi> Certainly none. The <hi>danger</hi> is <hi>in not kneeling;</hi> for I have learned of <hi>Chemnicius,</hi> that there is <hi>no true faith</hi>
+                  <pb n="80" facs="tcp:40718:42"/>in that Communicant
+<note n="l" place="margin">
+                     <hi>Non ve<g ref="char:EOLhyphen"/>ra ſuiſſet fides, ſi non ſecuta fuiſ ſet invoca<g ref="char:EOLhyphen"/>tio, ſcu ado<g ref="char:EOLhyphen"/>ratio.</hi> lb.</note> 
+                  <hi>where adoration is wanting.</hi> And Saint <hi>Ambroſe,</hi> and Saint <hi>Auſtine</hi> are reſolute, that
+<note n="m" place="margin">
+                     <hi>Ambroſ. &amp; Aug. in</hi> Pſal. 98.</note> 
+                  <hi>it is ſo farre from being a ſinne to kneele</hi> at receiving this Sacrament, <hi>that it is a ſinne not to kneele.</hi>
+               </p>
+               <p>Q. <hi>We have done with the ordinary courſe of Cathechiſing; and yet there re<g ref="char:EOLhyphen"/>maine two points of</hi>
+                  <note n="n" place="margin">Heb. 6.1. <hi>Hicreſpex<g ref="char:EOLhyphen"/>it ad uſita<g ref="char:EOLhyphen"/>tam Cate<g ref="char:EOLhyphen"/>chiſmi for<g ref="char:EOLhyphen"/>mulam.</hi> Calvin. <hi>in</hi> Heb. 6.1.</note> 
+                  <hi>Saint</hi> Pauls Care. chiſme, <hi>namely</hi> 1. Repentance from dead workes, <hi>and</hi> 2. Impoſition, <hi>or</hi> lay<g ref="char:EOLhyphen"/>ing on of hands. <hi>That we may orderly proceede in theſe, tell me first, what theſe</hi> dead workes <hi>are.</hi>
+               </p>
+               <p>
+                  <hi>A. Dead workes</hi> are ſuch, as by the <hi>Catechiſts</hi> of thoſe times were done, before they beleeved in <hi>Chriſt.</hi> Which being done without faith, and the leaſt relation to Gods glory, tended to death. Since
+<note n="o" place="margin">Heb. 11.6.</note> 
+                  <hi>without faith it is impoſſible to pleaſe God;</hi> and without <hi>pleaſing God</hi> no life.
+<note n="*" place="margin">
+                     <hi>Aug. de Fide &amp; Oper. c.</hi> 20.</note> Theſe workes then are to be repented of by the Elder ſort, before they repaire to <hi>Baptiſme.</hi>
+               </p>
+               <p>Q. <hi>What is</hi> Repentance?</p>
+               <p>
+                  <hi>A.</hi> It is an hearty ſorrow for our ſinnes paſt, accompanied with a change
+<pb n="81" facs="tcp:40718:42"/>of mind from evill to good, with a re<g ref="char:EOLhyphen"/>ſolution by Gods grace to continue in good courſes. If thus we
+<note n="p" place="margin">S. Mat. 4 17.</note> 
+                  <hi>repent, the Kingdome of heaven is at hand.</hi>
+               </p>
+               <p>Q. <hi>What meane you by</hi> Impoſition of hands?</p>
+               <p>
+                  <hi>A.</hi> It is a ſigne, or Ceremony, by which and Prayer, God conveyes his holy Spirit upon thoſe, that heretofore were baptized.</p>
+               <p>Q. <hi>Have not Perſons baptized the Holy Ghoſt before</hi> Confirmation?</p>
+               <p>
+                  <hi>A.</hi> Yes; but not in that meaſure, nor for the ſame end.</p>
+               <p>Q. <hi>In what meaſure, and for what end is the Holy Ghoſt bestowed upon us in</hi> Baptiſme?</p>
+               <p>
+                  <hi>A.</hi> To waſh and cleanſe us from ſinne, from all ſinne, that is in us; that ſo we may be cleane, and pure as <hi>Adam</hi> was, when he came firſt out of Gods fingers; and that we may be the mem<g ref="char:EOLhyphen"/>bers of <hi>Chriſt.</hi>
+               </p>
+               <p>Q. <hi>Why is he given us in</hi> Confirma<g ref="char:EOLhyphen"/>tion?</p>
+               <p>
+                  <hi>A.</hi> That
+<note n="q" place="margin">Rubrick<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> before the Catechiſm.</note> 
+                  <hi>we may receive ſtrength and defence against all temptations to
+<pb n="82" facs="tcp:40718:43"/>ſinne, and againſt the aſſaults of the world and the Divell.</hi> At <hi>Baptiſme</hi> we promiſed, not to follow any of theſe, nor to be led by them; and in <hi>Con<g ref="char:EOLhyphen"/>firmation,</hi> God ſtrengthens us by his Spirit, that we may make good this promiſe.</p>
+               <p>Q. <hi>Is it not enough to receive the Holy Ghoſt once?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No;
+<note n="r" place="margin">S. Joh. 3.34. Eph 4.7.1. Cor. 12.11.</note> for <hi>God gives his Spirit, and his graces according to meaſure;</hi> ſome at one time, and ſome at another; ſome by one meanes, and ſome by ano<g ref="char:EOLhyphen"/>ther: as is to be ſeen in Baptiſme, Con<g ref="char:EOLhyphen"/>firmation, the Lords Supper, and Or<g ref="char:EOLhyphen"/>ders.</p>
+               <p>Q. <hi>Did the Apoſtles receive the Ho<g ref="char:EOLhyphen"/>ly Ghoſt more then once?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> It is evident they did. That the <hi>Apoſtles</hi> were <hi>baptized,</hi> no man, I hope, queſtions. And that they received the Holy Ghoſt in <hi>Orders</hi> and <hi>Confirmati<g ref="char:EOLhyphen"/>on,</hi> is manifeſt in Scripture. In <hi>Orders,</hi> S. <hi>Joh.</hi> 20.22, 23. In <hi>Confirmation, Act.</hi> 2.4. And at each time they received a ſeverall meaſure, or grace of the Holy Ghoſt, and for a ſeverall end.</p>
+               <pb n="83" facs="tcp:40718:43"/>
+               <p>Q. <hi>Did the Apoſtles make uſe of this Rite or Ceremony?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> They did; as is to be ſeen, <hi>Act.</hi> 8. and <hi>Act.</hi> 19. In the one place
+<note n="ſ" place="margin">Act. 8.17.</note> S. <hi>Peter</hi> and S. <hi>John, laid their hands on the bap<g ref="char:EOLhyphen"/>tized Samaritans, and they received the Holy Ghoſt.</hi> In the other
+<note n="t" place="margin">Act. 19.6.</note> S. <hi>Paul laid his hands upon</hi> the baptized <hi>Epheſians, and the Holy Ghoſt came on them.</hi>
+                  <note n="u" place="margin">Prayer in Confirma<g ref="char:EOLhyphen"/>tion.</note> This then is done by our <hi>Biſhops, after the ex<g ref="char:EOLhyphen"/>ample of the holy Apoſtles:</hi> and
+<note n="*" place="margin">
+                     <hi>Hic unus locus abun<g ref="char:EOLhyphen"/>de teſtatur huius Cere<g ref="char:EOLhyphen"/>moniae ori<g ref="char:EOLhyphen"/>ginem flux<g ref="char:EOLhyphen"/>tſſe ab A<g ref="char:EOLhyphen"/>poſtolis.</hi> Calvin. <hi>in</hi> Heb 6.2.</note> is the ſame with that <hi>Heb.</hi> 6.2.</p>
+               <p>Q. <hi>Is this Rite neceſſarily to be con<g ref="char:EOLhyphen"/>tinued in the Church of</hi> Chriſt?</p>
+               <p>
+                  <hi>A.</hi> Not of neceſſity to ſalvation, but of neceſſity for the obtaining of cer<g ref="char:EOLhyphen"/>taine gifts of the Spirit,
+<note n="x" place="margin">Act. 19.2.6.</note> which can<g ref="char:EOLhyphen"/>not ordinarily be acquired but by this meanes.</p>
+               <p>Q. <hi>Why is not more care taken, that it be continued?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> Our Church hath taken order, that
+<note n="y" place="margin">Rubricke in publique Baptiſme, and after the Cate<g ref="char:EOLhyphen"/>chiſme.</note> 
+                  <hi>Children, ſo ſoon as they can ſay the Articles of the Faith, the Lords Prayer, and the ten Commandements, and be further inſtructed in the Cate<g ref="char:EOLhyphen"/>chiſme ſet forth for that purpoſe, be
+<pb n="84" facs="tcp:40718:44"/>brought to the Biſhop to be confirmed of him.</hi>
+                  <note n="z" place="margin">Ib.</note> 
+                  <hi>And the Biſhop ſhall confirme them.</hi>
+               </p>
+               <p>Beſides, it is ordered, that
+<note n="a" place="margin">Rubricke after Con<g ref="char:EOLhyphen"/>firmation.</note> 
+                  <hi>None</hi> SHALL <hi>be admitted to the holy Com<g ref="char:EOLhyphen"/>munion, untill ſuch time as he be confir<g ref="char:EOLhyphen"/>med.</hi> Our Church conceives it to be neceſſary, at leaſt by way of <hi>prepara<g ref="char:EOLhyphen"/>tion,</hi> for all ſuch as repaire to the Lords Table.</p>
+               <p>Q. <hi>Who are the Ministers of this bleſſing?</hi>
+               </p>
+               <p>
+                  <hi>A. Biſhops,</hi> and only <hi>Biſhops.</hi> The reaſon is, becauſe the <hi>Apoſtles only</hi> did it in their time; and <hi>Biſhops</hi> are the on<g ref="char:EOLhyphen"/>ly ſucceſſors of the <hi>Apoſtles.</hi>
+               </p>
+               <p>Q. <hi>Was it not an extraordinary act?</hi>
+               </p>
+               <p>
+                  <hi>A.</hi> No; but ſuch a bleſſing as is to be retained in the Church of God for the good of his people; that ſo we may in<g ref="char:EOLhyphen"/>creaſe in his holy Spirit more and more, untill we come to his everlaſting King<g ref="char:EOLhyphen"/>dome,</p>
+               <closer>AMEN.</closer>
+            </div>
+            <epigraph>
+               <q>Haec non praecipiendi authoritate, ſed proficiendi exercitatione ſcribuntur à nobis. <bibl>Aug. Cont. Fauſt. l. 11. c. 5.</bibl>
+               </q>
+               <pb n="85" facs="tcp:40718:44"/>
+               <q>A praeſenti ſaeculo maligno ſalvi fieri non poſſumus, niſi &amp; nos ad ſalutem proximorum nitentes, etiam ore profitea<g ref="char:EOLhyphen"/>mur fidem, quam corde geſtamus: quae fides ne fraudulentis calliditatibus haere<g ref="char:EOLhyphen"/>ticorum poſſit in nobis aliqua ex parte violari, piâ cauta<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vigilantiâ providen<g ref="char:EOLhyphen"/>dum eſt. <bibl>Aug. de fide &amp; Symbolo. c. 1.</bibl>
+               </q>
+               <q>Tractatio fidei ad muniendum Sym<g ref="char:EOLhyphen"/>bolum valet: non ut ipſa pro Symbolo gratiam Dei conſequentibus memoriae mandanda &amp; reddenda tradatur; ſed ut illa, quae in Symbolo retinentur, contra haereticorum inſidias authoritate Catho<g ref="char:EOLhyphen"/>licâ &amp; munitiore defenſione cuſtodiat. <bibl>Ibid.</bibl>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
